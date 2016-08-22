@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="2014RST-PAULEKA-PauleKa_017_1366" size="0" md5="201d4a8a3d65e8a82244a16f8a68689b" attrgroup="g10">
+    <pose>
+        <head type="SinglePoint">275,51</head>
+        <neck type="SinglePoint">257,154</neck>
+        <right_shoulder type="SinglePoint">326,171</right_shoulder>
+        <right_elbow type="SinglePoint">326,309</right_elbow>
+        <right_hand type="SinglePoint">343,447</right_hand>
+        <left_shoulder type="SinglePoint">189,171</left_shoulder>
+        <left_elbow type="SinglePoint">177,312</left_elbow>
+        <left_hand type="SinglePoint">171,447</left_hand>
+        <right_hip type="SinglePoint">304,391</right_hip>
+        <left_hip type="SinglePoint">204,409</left_hip>
+        <left_knee type="SinglePoint">223,601</left_knee>
+        <left_ankle type="SinglePoint">240,773</left_ankle>
+        <right_knee type="SinglePoint">326,584</right_knee>
+        <right_ankle type="SinglePoint">378,773</right_ankle>
+        <L_Sleeve type="StraightLine">176,226,189,229</L_Sleeve>
+        <R_Sleeve type="StraightLine">319,227,343,220</R_Sleeve>
+        <Lenth type="StraightLine">195,503,275,507</Lenth>
+        <HSIColor1 type="StandardRect">242,263,251,269</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_short</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g10</attrgroup>
+        <color1>25731593</color1>
+        <color2>20740</color2>
+        <color3>62285</color3>
+        <color4>83222</color4>
+        <color5>29193</color5>
+        <sleeveValue>19.6</sleeveValue>
+        <lenthValue>56.5</lenthValue>
+        <Color1>2104093</Color1>
+    </attr>
+</file>

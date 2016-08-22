@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="85da6edd3b872cbac4d843f410488583" name="2012PF-PREEN-007fullscreen" size="0" attrgroup="g15">
+    <pose>
+        <head type="SinglePoint">257,34</head>
+        <neck type="SinglePoint">277,144</neck>
+        <right_shoulder type="SinglePoint">347,153</right_shoulder>
+        <right_elbow type="SinglePoint">379,301</right_elbow>
+        <right_hand type="SinglePoint">375,418</right_hand>
+        <left_shoulder type="SinglePoint">209,173</left_shoulder>
+        <left_elbow type="SinglePoint">206,320</left_elbow>
+        <left_hand type="SinglePoint">189,464</left_hand>
+        <right_hip type="SinglePoint">339,383</right_hip>
+        <left_hip type="SinglePoint">233,386</left_hip>
+        <left_knee type="SinglePoint">247,579</left_knee>
+        <left_ankle type="SinglePoint">282,792</left_ankle>
+        <right_knee type="SinglePoint">355,574</right_knee>
+        <right_ankle type="SinglePoint">403,785</right_ankle>
+        <L_Sleeve type="StraightLine">186,341,217,346</L_Sleeve>
+        <R_Sleeve type="StraightLine">361,331,394,331</R_Sleeve>
+        <Lenth type="StraightLine">251,346,331,346</Lenth>
+        <HSIColor1 type="StandardRect">270,220,299,244</HSIColor1>
+        <HSIColor2 type="StandardRect">238,174,248,178</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>t-shirt</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g15</attrgroup>
+        <color1>20275776</color1>
+        <color2>3277504</color2>
+        <color3>1556153</color3>
+        <color4>794948</color4>
+        <color5>53632</color5>
+        <sleeveValue>60.4</sleeveValue>
+        <lenthValue>31.2</lenthValue>
+        <Color1>5776644</Color1>
+        <Color2>14083300</Color2>
+    </attr>
+</file>

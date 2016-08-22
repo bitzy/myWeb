@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file attrgroup="han_full" md5="a21c11d4ed05e020d2fe8c06bb3e6a6e" name="0148" size="0">
+    <pose>
+        <head type="SinglePoint">298,57</head>
+        <neck type="SinglePoint">298,135</neck>
+        <right_shoulder type="SinglePoint">363,187</right_shoulder>
+        <right_elbow type="SinglePoint">350,308</right_elbow>
+        <right_hand type="SinglePoint">328,411</right_hand>
+        <left_shoulder type="SinglePoint">235,183</left_shoulder>
+        <left_elbow type="SinglePoint">192,285</left_elbow>
+        <left_hand type="SinglePoint">164,385</left_hand>
+        <right_hip type="SinglePoint">289,398</right_hip>
+        <left_hip type="SinglePoint">198,378</left_hip>
+        <left_knee type="SinglePoint">194,573</left_knee>
+        <left_ankle type="SinglePoint">198,706</left_ankle>
+        <right_knee type="SinglePoint">265,590</right_knee>
+        <right_ankle type="SinglePoint">294,744</right_ankle>
+        <L_Sleeve type="StraightLine">183,254,209,264</L_Sleeve>
+        <R_Sleeve type="StraightLine">339,277,369,281</R_Sleeve>
+        <Lenth type="StraightLine">190,332,289,367</Lenth>
+        <HSIColor1 type="StandardRect">273,179,294,208</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_short</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>18408717</color1>
+        <color2>3225232</color2>
+        <color3>1694198</color3>
+        <color4>1415251</color4>
+        <color5>1148971</color5>
+        <sleeveValue>38.0</sleeveValue>
+        <lenthValue>36.1</lenthValue>
+        <Color1>6849612</Color1>
+    </attr>
+</file>

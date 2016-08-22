@@ -1,0 +1,41 @@
+FILE LAYOUT:
+- <Model>
+- <reference>
+	- <AttrBase>
+	- <AttrRecognize>
+	- <cfgFile>
+	- <SysConfig>
+- attrGet.cpp
+- reference.h
+- svm-predict-linux
+- Makefile
+- README
+- attr.pro
+
+#the terminal should execute this cmd:
+export LD_LIBRARY_PATH=/usr/lib/x86_64-linux-gnu:/usr/local/opencv3/lib:$LD_LIBRARY_PATH
+
+#generate the .pro file
+qmake -project
+#then revise the .pro file by hand
+#add this:
+QT			+= xml
+INCLUDEPATH += . AttrRecognize AttrRecognize/AttrBase \
+			/usr/local/opencv3/include \
+			/usr/local/opencv3/include/opencv \
+			/usr/local/opencv3/include/opencv2
+LIBS += -L /usr/local/opencv3/lib/ \
+		/usr/local/opencv3/lib/libopencv_highgui.so \
+		/usr/local/opencv3/lib/libopencv_core.so \
+		/usr/local/opencv3/lib/libopencv_imgproc.so \
+		/usr/local/opencv3/lib/libopencv_imgcodecs.so \
+		/usr/local/opencv3/lib/libopencv_ml.so \
+		/usr/local/opencv3/lib/libopencv_objdetect.so \
+		/usr/local/opencv3/lib/libopencv_ximgproc.so \
+		/var/www/html/myWeb/WebExe/vlfeat-0.9.20/bin/glnxa64/libvl.so
+
+#generate the Makefile
+qmake a.pro -o Makefile
+
+#run cmd:
+./WebExe/attr/attr /var/www/html/myWeb/WebData/input/127.0.0.1-41439.jpg /var/www/html/myWeb/WebData/tmp/posTmp.txt /var/www/html/myWeb/WebData/tmp/collar /var/www/html/myWeb/WebData/tmp/sleeve /var/www/html/myWeb/WebData/tmp/uplenth a b 

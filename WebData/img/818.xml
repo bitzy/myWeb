@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="2014RST-JNATORI-Josie_Natori_006_1366" size="0" md5="4714a7c6c7e64fb37da2db60e699a265" attrgroup="g7">
+    <pose>
+        <head type="SinglePoint">292,85</head>
+        <neck type="SinglePoint">286,193</neck>
+        <right_shoulder type="SinglePoint">343,206</right_shoulder>
+        <right_elbow type="SinglePoint">415,304</right_elbow>
+        <right_hand type="SinglePoint">361,378</right_hand>
+        <left_shoulder type="SinglePoint">223,206</left_shoulder>
+        <left_elbow type="SinglePoint">206,343</left_elbow>
+        <left_hand type="SinglePoint">206,464</left_hand>
+        <right_hip type="SinglePoint">336,419</right_hip>
+        <left_hip type="SinglePoint">241,420</left_hip>
+        <left_knee type="SinglePoint">250,585</left_knee>
+        <left_ankle type="SinglePoint">259,743</left_ankle>
+        <right_knee type="SinglePoint">318,566</right_knee>
+        <right_ankle type="SinglePoint">303,739</right_ankle>
+        <L_Sleeve type="StraightLine">224,195,232,217</L_Sleeve>
+        <R_Sleeve type="StraightLine">352,204,347,218</R_Sleeve>
+        <Lenth type="StraightLine">242,346,332,344</Lenth>
+        <HSIColor1 type="StandardRect">295,300,303,312</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>shirt</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>short</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g7</attrgroup>
+        <color1>15720317</color1>
+        <color2>3890550</color2>
+        <color3>3441095</color3>
+        <color4>2022320</color4>
+        <color5>840460</color5>
+        <sleeveValue>1.8</sleeveValue>
+        <lenthValue>27.7</lenthValue>
+        <Color1>15263976</Color1>
+    </attr>
+</file>

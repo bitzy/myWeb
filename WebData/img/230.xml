@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="1553615ea591e31371cd6970aeaa5cd3" attrgroup="g13" name="2013PF-RCOMEY-rachelcomey_009_1366" size="0">
+    <pose>
+        <head type="SinglePoint">292,154</head>
+        <neck type="SinglePoint">286,256</neck>
+        <right_shoulder type="SinglePoint">336,274</right_shoulder>
+        <right_elbow type="SinglePoint">346,375</right_elbow>
+        <right_hand type="SinglePoint">378,484</right_hand>
+        <left_shoulder type="SinglePoint">226,276</left_shoulder>
+        <left_elbow type="SinglePoint">218,371</left_elbow>
+        <left_hand type="SinglePoint">214,479</left_hand>
+        <right_hip type="SinglePoint">318,435</right_hip>
+        <left_hip type="SinglePoint">242,437</left_hip>
+        <left_knee type="SinglePoint">242,598</left_knee>
+        <left_ankle type="SinglePoint">249,743</left_ankle>
+        <right_knee type="SinglePoint">314,582</right_knee>
+        <right_ankle type="SinglePoint">318,733</right_ankle>
+        <L_Sleeve type="StraightLine">213,316,235,334</L_Sleeve>
+        <R_Sleeve type="StraightLine">350,318,330,332</R_Sleeve>
+        <Lenth type="StraightLine">241,432,304,436</Lenth>
+        <HSIColor1 type="StandardRect">267,321,296,335</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>t-shirt</uclothcategory>
+        <sleeve>s_short</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g13</attrgroup>
+        <color1>23236283</color1>
+        <color2>1981815</color2>
+        <color3>462653</color3>
+        <color4>299920</color4>
+        <color5>70804</color5>
+        <sleeveValue>24.7</sleeveValue>
+        <lenthValue>36.9</lenthValue>
+        <Color1>10281192</Color1>
+    </attr>
+</file>

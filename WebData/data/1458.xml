@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file attrgroup="g1" name="2014RST-TRUNHOF-Talbot_030_1366" size="0" md5="7cd184f3a233a00e5c07d2cbc1aeada1">
+    <pose>
+        <head type="SinglePoint">248,118</head>
+        <neck type="SinglePoint">258,187</neck>
+        <right_shoulder type="SinglePoint">301,215</right_shoulder>
+        <right_elbow type="SinglePoint">306,300</right_elbow>
+        <right_hand type="SinglePoint">305,380</right_hand>
+        <left_shoulder type="SinglePoint">210,214</left_shoulder>
+        <left_elbow type="SinglePoint">205,292</left_elbow>
+        <left_hand type="SinglePoint">200,374</left_hand>
+        <right_hip type="SinglePoint">275,356</right_hip>
+        <left_hip type="SinglePoint">224,353</left_hip>
+        <left_knee type="SinglePoint">232,470</left_knee>
+        <left_ankle type="SinglePoint">247,574</left_ankle>
+        <right_knee type="SinglePoint">280,469</right_knee>
+        <right_ankle type="SinglePoint">267,575</right_ankle>
+        <sLen_left type="StraightLine">187,359,209,358</sLen_left>
+        <sLen_right type="StraightLine">293,365,314,369</sLen_right>
+        <clothLen type="StraightLine">211,456,290,466</clothLen>
+        <L_Sleeve type="StraightLine">190,356,210,357</L_Sleeve>
+        <R_Sleeve type="StraightLine">298,364,316,366</R_Sleeve>
+        <Lenth type="StraightLine">225,467,267,468</Lenth>
+        <HSIColor1 type="StandardRect">236,257,253,274</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g1</attrgroup>
+        <color1>25452935</color1>
+        <color2>0</color2>
+        <color3>50065</color3>
+        <color4>104421</color4>
+        <color5>33231</color5>
+        <open>open_no</open>
+        <sleeveValue>89.5</sleeveValue>
+        <lenthValue>72.4</lenthValue>
+        <Color1>1710108</Color1>
+    </attr>
+</file>

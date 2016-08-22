@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="9a3c560df3008a57b856ef48fbc94092" name="F2010RTW-HLEGER-00240fullscreen" size="0" attrgroup="g13">
+    <pose>
+        <head type="SinglePoint">257,17</head>
+        <neck type="SinglePoint">282,138</neck>
+        <right_shoulder type="SinglePoint">356,164</right_shoulder>
+        <right_elbow type="SinglePoint">361,309</right_elbow>
+        <right_hand type="SinglePoint">361,429</right_hand>
+        <left_shoulder type="SinglePoint">202,168</left_shoulder>
+        <left_elbow type="SinglePoint">190,302</left_elbow>
+        <left_hand type="SinglePoint">179,436</left_hand>
+        <right_hip type="SinglePoint">314,384</right_hip>
+        <left_hip type="SinglePoint">219,384</left_hip>
+        <left_knee type="SinglePoint">247,561</left_knee>
+        <left_ankle type="SinglePoint">275,778</left_ankle>
+        <right_knee type="SinglePoint">293,585</right_knee>
+        <right_ankle type="SinglePoint">310,749</right_ankle>
+        <L_Sleeve type="StraightLine">185,278,203,279</L_Sleeve>
+        <R_Sleeve type="StraightLine">346,281,367,285</R_Sleeve>
+        <Lenth type="StraightLine">229,487,305,493</Lenth>
+        <HSIColor1 type="StandardRect">245,250,279,276</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_half</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g13</attrgroup>
+        <color1>21716538</color1>
+        <color2>3345653</color2>
+        <color3>961392</color3>
+        <color4>154155</color4>
+        <color5>241535</color5>
+        <sleeveValue>41.0</sleeveValue>
+        <lenthValue>56.3</lenthValue>
+        <Color1>14082024</Color1>
+    </attr>
+</file>

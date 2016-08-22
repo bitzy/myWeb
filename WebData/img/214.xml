@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="13ab2b717324e5a2d851cbcdffd8f7e1" attrgroup="g2" name="2014RST-CAMMARC-Camilla_and_Marc_004_1366" size="0">
+    <pose>
+        <head type="SinglePoint">278,179</head>
+        <neck type="SinglePoint">273,239</neck>
+        <right_shoulder type="SinglePoint">312,274</right_shoulder>
+        <right_elbow type="SinglePoint">320,364</right_elbow>
+        <right_hand type="SinglePoint">332,466</right_hand>
+        <left_shoulder type="SinglePoint">220,269</left_shoulder>
+        <left_elbow type="SinglePoint">206,385</left_elbow>
+        <left_hand type="SinglePoint">200,482</left_hand>
+        <right_hip type="SinglePoint">299,421</right_hip>
+        <left_hip type="SinglePoint">232,425</left_hip>
+        <left_knee type="SinglePoint">238,578</left_knee>
+        <left_ankle type="SinglePoint">236,745</left_ankle>
+        <right_knee type="SinglePoint">289,580</right_knee>
+        <right_ankle type="SinglePoint">286,738</right_ankle>
+        <L_Sleeve type="StraightLine">231,255,235,281</L_Sleeve>
+        <R_Sleeve type="StraightLine">301,261,301,277</R_Sleeve>
+        <Lenth type="StraightLine">239,372,304,377</Lenth>
+        <HSIColor1 type="StandardRect">259,301,279,309</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>vest</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>short</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g2</attrgroup>
+        <color1>22327946</color1>
+        <color2>1631121</color2>
+        <color3>1131801</color3>
+        <color4>650299</color4>
+        <color5>445627</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>26.9</lenthValue>
+        <Color1>2893609</Color1>
+    </attr>
+</file>

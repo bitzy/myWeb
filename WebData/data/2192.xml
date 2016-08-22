@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="b831c2e0092cfd30df11d83cd39528cc" attrgroup="han_full" name="black-zara-shoes-silver-houndstooth-mr-turk-blazer-white-zara-shirt_400" size="0">
+    <pose>
+        <head type="SinglePoint">141,41</head>
+        <neck type="SinglePoint">145,105</neck>
+        <right_shoulder type="SinglePoint">205,133</right_shoulder>
+        <right_elbow type="SinglePoint">226,216</right_elbow>
+        <right_hand type="SinglePoint">239,311</right_hand>
+        <left_shoulder type="SinglePoint">97,138</left_shoulder>
+        <left_elbow type="SinglePoint">88,211</left_elbow>
+        <left_hand type="SinglePoint">63,308</left_hand>
+        <right_hip type="SinglePoint">176,282</right_hip>
+        <left_hip type="SinglePoint">120,268</left_hip>
+        <left_knee type="SinglePoint">117,396</left_knee>
+        <left_ankle type="SinglePoint">134,513</left_ankle>
+        <right_knee type="SinglePoint">172,398</right_knee>
+        <right_ankle type="SinglePoint">148,490</right_ankle>
+        <L_Sleeve type="StraightLine">56,296,84,303</L_Sleeve>
+        <R_Sleeve type="StraightLine">228,299,255,298</R_Sleeve>
+        <Lenth type="StraightLine">100,296,185,303</Lenth>
+        <HSIColor1 type="StandardRect">171,274,177,285</HSIColor1>
+        <HSIColor2 type="StandardRect">130,217,140,223</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Other</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>8159752</color1>
+        <color2>5854549</color2>
+        <color3>5563213</color3>
+        <color4>3262236</color4>
+        <color5>3112439</color5>
+        <sleeveValue>94.0</sleeveValue>
+        <lenthValue>49.0</lenthValue>
+        <Color1>2631719</Color1>
+        <Color2>13948116</Color2>
+    </attr>
+</file>

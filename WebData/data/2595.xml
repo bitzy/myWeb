@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file attrgroup="han_half" md5="da609b79400ed25db928266c4077143b" name="ivory-button-up-banana-republic-shirt-ruby-red-payless-sneakers_400" size="0">
+    <pose>
+        <head type="SinglePoint">162,90</head>
+        <neck type="SinglePoint">194,206</neck>
+        <right_shoulder type="SinglePoint">259,223</right_shoulder>
+        <right_elbow type="SinglePoint">278,350</right_elbow>
+        <right_hand type="SinglePoint">277,476</right_hand>
+        <left_shoulder type="SinglePoint">113,235</left_shoulder>
+        <left_elbow type="SinglePoint">106,366</left_elbow>
+        <left_hand type="SinglePoint">108,513</left_hand>
+        <right_hip type="SinglePoint">240,485</right_hip>
+        <left_hip type="SinglePoint">149,490</left_hip>
+        <left_knee type="SinglePoint">null</left_knee>
+        <left_ankle type="SinglePoint">null</left_ankle>
+        <right_knee type="SinglePoint">null</right_knee>
+        <right_ankle type="SinglePoint">null</right_ankle>
+        <L_Sleeve type="StraightLine">96,511,125,510</L_Sleeve>
+        <R_Sleeve type="StraightLine">272,474,290,474</R_Sleeve>
+        <Lenth type="StraightLine">148,486,248,483</Lenth>
+        <HSIColor1 type="StandardRect">151,346,178,363</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>14021962</color1>
+        <color2>9865109</color2>
+        <color3>1151942</color3>
+        <color4>931472</color4>
+        <color5>32896</color5>
+        <sleeveValue>99.1</sleeveValue>
+        <lenthValue>39.6</lenthValue>
+        <Color1>7887936</Color1>
+    </attr>
+</file>

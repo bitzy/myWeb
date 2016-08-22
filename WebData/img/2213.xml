@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="ba6c392479ee1c21c1a70ebd89ebd494" attrgroup="han_half" name="000137" size="0">
+    <pose>
+        <head type="SinglePoint">434,67</head>
+        <neck type="SinglePoint">375,264</neck>
+        <right_shoulder type="SinglePoint">487,286</right_shoulder>
+        <right_elbow type="SinglePoint">520,413</right_elbow>
+        <right_hand type="SinglePoint">518,200</right_hand>
+        <left_shoulder type="SinglePoint">248,311</left_shoulder>
+        <left_elbow type="SinglePoint">243,520</left_elbow>
+        <left_hand type="SinglePoint">149,445</left_hand>
+        <right_hip type="SinglePoint">437,738</right_hip>
+        <left_hip type="SinglePoint">288,726</left_hip>
+        <left_knee type="SinglePoint">null</left_knee>
+        <left_ankle type="SinglePoint">null</left_ankle>
+        <right_knee type="SinglePoint">null</right_knee>
+        <right_ankle type="SinglePoint">null</right_ankle>
+        <L_Sleeve type="StraightLine">185,458,168,497</L_Sleeve>
+        <R_Sleeve type="StraightLine">508,298,536,302</R_Sleeve>
+        <Lenth type="StraightLine">303,720,437,730</Lenth>
+        <HSIColor1 type="StandardRect">350,332,390,368</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Other</texture>
+        <button>N</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>10198584</color1>
+        <color2>7077887</color2>
+        <color3>3288442</color3>
+        <color4>2891906</color4>
+        <color5>3063352</color5>
+        <sleeveValue>80.4</sleeveValue>
+        <lenthValue>39.4</lenthValue>
+        <Color1>16578808</Color1>
+    </attr>
+</file>

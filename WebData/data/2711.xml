@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="e40ab9e5876841c3d2ed83156f8e162b" attrgroup="Deballer_f" name="f0497f85167a8e2f1715f07dcd222b78488d0d" size="0">
+    <pose>
+        <head type="SinglePoint">281,105</head>
+        <neck type="SinglePoint">281,193</neck>
+        <right_shoulder type="SinglePoint">358,243</right_shoulder>
+        <right_elbow type="SinglePoint">334,369</right_elbow>
+        <right_hand type="SinglePoint">334,527</right_hand>
+        <left_shoulder type="SinglePoint">197,246</left_shoulder>
+        <left_elbow type="SinglePoint">175,369</left_elbow>
+        <left_hand type="SinglePoint">158,510</left_hand>
+        <right_hip type="SinglePoint">281,439</right_hip>
+        <left_hip type="SinglePoint">211,439</left_hip>
+        <left_knee type="SinglePoint">211,668</left_knee>
+        <left_ankle type="SinglePoint">228,791</left_ankle>
+        <right_knee type="SinglePoint">263,651</right_knee>
+        <right_ankle type="SinglePoint">263,862</right_ankle>
+        <L_Sleeve type="StraightLine">160,424,183,427</L_Sleeve>
+        <R_Sleeve type="StraightLine">325,440,352,446</R_Sleeve>
+        <Lenth type="StraightLine">215,375,290,377</Lenth>
+        <HSIColor1 type="StandardRect">291,302,312,316</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>t-shirt</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>short</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>Deballer_f</attrgroup>
+        <color1>11924152</color1>
+        <color2>6739327</color2>
+        <color3>3564473</color3>
+        <color4>2449842</color4>
+        <color5>1814398</color5>
+        <sleeveValue>71.5</sleeveValue>
+        <lenthValue>28.9</lenthValue>
+        <Color1>8399064</Color1>
+    </attr>
+</file>

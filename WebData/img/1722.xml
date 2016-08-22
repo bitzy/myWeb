@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="94348bfbc5eda362afce4b0d82089be1" name="periwinkle-the-kooples-shirt-black-chanel-bag-black-ray-ban-sunglasses_400" size="0" attrgroup="han_full">
+    <pose>
+        <head type="SinglePoint">209,53</head>
+        <neck type="SinglePoint">206,122</neck>
+        <right_shoulder type="SinglePoint">252,146</right_shoulder>
+        <right_elbow type="SinglePoint">258,221</right_elbow>
+        <right_hand type="SinglePoint">262,298</right_hand>
+        <left_shoulder type="SinglePoint">156,140</left_shoulder>
+        <left_elbow type="SinglePoint">152,237</left_elbow>
+        <left_hand type="SinglePoint">149,294</left_hand>
+        <right_hip type="SinglePoint">235,287</right_hip>
+        <left_hip type="SinglePoint">173,289</left_hip>
+        <left_knee type="SinglePoint">162,401</left_knee>
+        <left_ankle type="SinglePoint">156,517</left_ankle>
+        <right_knee type="SinglePoint">241,406</right_knee>
+        <right_ankle type="SinglePoint">247,526</right_ankle>
+        <L_Sleeve type="StraightLine">135,243,157,243</L_Sleeve>
+        <R_Sleeve type="StraightLine">254,250,270,249</R_Sleeve>
+        <Lenth type="StraightLine">154,306,243,311</Lenth>
+        <HSIColor1 type="StandardRect">198,178,217,197</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>9910430</color1>
+        <color2>7855670</color2>
+        <color3>3910766</color3>
+        <color4>2837029</color4>
+        <color5>2279257</color5>
+        <sleeveValue>60.4</sleeveValue>
+        <lenthValue>46.6</lenthValue>
+        <Color1>12353391</Color1>
+    </attr>
+</file>

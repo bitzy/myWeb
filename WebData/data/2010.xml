@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="ac3d9033c374527e21ae31c92dd0515b" attrgroup="han_full" name="black-pinstripe-betsey-johnson-jacket-red-cross-body-joy-gryson-bag_400" size="0">
+    <pose>
+        <head type="SinglePoint">157,62</head>
+        <neck type="SinglePoint">179,128</neck>
+        <right_shoulder type="SinglePoint">230,133</right_shoulder>
+        <right_elbow type="SinglePoint">261,204</right_elbow>
+        <right_hand type="SinglePoint">260,270</right_hand>
+        <left_shoulder type="SinglePoint">149,163</left_shoulder>
+        <left_elbow type="SinglePoint">140,227</left_elbow>
+        <left_hand type="SinglePoint">136,312</left_hand>
+        <right_hip type="SinglePoint">224,291</right_hip>
+        <left_hip type="SinglePoint">177,300</left_hip>
+        <left_knee type="SinglePoint">206,386</left_knee>
+        <left_ankle type="SinglePoint">232,485</left_ankle>
+        <right_knee type="SinglePoint">252,383</right_knee>
+        <right_ankle type="SinglePoint">302,463</right_ankle>
+        <L_Sleeve type="StraightLine">129,300,145,299</L_Sleeve>
+        <R_Sleeve type="StraightLine">250,256,266,256</R_Sleeve>
+        <Lenth type="StraightLine">173,309,247,299</Lenth>
+        <HSIColor1 type="StandardRect">174,234,211,252</HSIColor1>
+        <HSIColor2 type="StandardRect">237,141,250,149</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>7897542</color1>
+        <color2>7948255</color2>
+        <color3>4789913</color3>
+        <color4>3458258</color4>
+        <color5>1884939</color5>
+        <sleeveValue>90.9</sleeveValue>
+        <lenthValue>49.3</lenthValue>
+        <Color1>5208188</Color1>
+        <Color2>2366999</Color2>
+    </attr>
+</file>

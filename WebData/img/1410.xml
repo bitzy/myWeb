@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="7762bc32309ec02e40f78b60a1b6b627" name="F2010RTW-RCHAI-00010fullscreen" size="0" attrgroup="g6">
+    <pose>
+        <head type="SinglePoint">294,41</head>
+        <neck type="SinglePoint">287,131</neck>
+        <right_shoulder type="SinglePoint">358,188</right_shoulder>
+        <right_elbow type="SinglePoint">356,311</right_elbow>
+        <right_hand type="SinglePoint">382,446</right_hand>
+        <left_shoulder type="SinglePoint">215,184</left_shoulder>
+        <left_elbow type="SinglePoint">206,295</left_elbow>
+        <left_hand type="SinglePoint">154,394</left_hand>
+        <right_hip type="SinglePoint">332,385</right_hip>
+        <left_hip type="SinglePoint">254,385</left_hip>
+        <left_knee type="SinglePoint">271,555</left_knee>
+        <left_ankle type="SinglePoint">282,711</left_ankle>
+        <right_knee type="SinglePoint">323,569</right_knee>
+        <right_ankle type="SinglePoint">304,753</right_ankle>
+        <sLen_left type="StraightLine">173,322,201,335</sLen_left>
+        <sLen_right type="StraightLine">359,354,381,353</sLen_right>
+        <clothLen type="StraightLine">228,455,366,447</clothLen>
+        <L_Sleeve type="StraightLine">null</L_Sleeve>
+        <R_Sleeve type="StraightLine">null</R_Sleeve>
+        <Lenth type="StraightLine">null</Lenth>
+        <HSIColor1 type="StandardRect">null</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>shirt</uclothcategory>
+        <sleeve>s_half</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Point</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g6</attrgroup>
+        <color1>18587257</color1>
+        <color2>4939060</color2>
+        <color3>2026414</color3>
+        <color4>682472</color4>
+        <color5>253887</color5>
+        <open>open_no</open>
+    </attr>
+</file>

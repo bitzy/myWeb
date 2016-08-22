@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file attrgroup="g4" md5="d6a4e68c4ccc2faac7dce43a0e867a10" name="F2010RTW-ISMIYAKE-00410fullscreen" size="0">
+    <pose>
+        <head type="SinglePoint">294,18</head>
+        <neck type="SinglePoint">294,128</neck>
+        <right_shoulder type="SinglePoint">360,173</right_shoulder>
+        <right_elbow type="SinglePoint">379,318</right_elbow>
+        <right_hand type="SinglePoint">387,442</right_hand>
+        <left_shoulder type="SinglePoint">216,180</left_shoulder>
+        <left_elbow type="SinglePoint">202,294</left_elbow>
+        <left_hand type="SinglePoint">202,442</left_hand>
+        <right_hip type="SinglePoint">332,372</right_hip>
+        <left_hip type="SinglePoint">243,381</left_hip>
+        <left_knee type="SinglePoint">273,569</left_knee>
+        <left_ankle type="SinglePoint">309,757</left_ankle>
+        <right_knee type="SinglePoint">314,584</right_knee>
+        <right_ankle type="SinglePoint">279,787</right_ankle>
+        <L_Sleeve type="StraightLine">190,437,217,441</L_Sleeve>
+        <R_Sleeve type="StraightLine">370,443,406,441</R_Sleeve>
+        <Lenth type="StraightLine">238,587,402,575</Lenth>
+        <HSIColor1 type="StandardRect">284,378,306,397</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>coat</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g4</attrgroup>
+        <color1>21537578</color1>
+        <color2>1860132</color2>
+        <color3>1065372</color3>
+        <color4>786446</color4>
+        <color5>586863</color5>
+        <sleeveValue>99.3</sleeveValue>
+        <lenthValue>70.3</lenthValue>
+        <Color1>2763436</Color1>
+    </attr>
+</file>

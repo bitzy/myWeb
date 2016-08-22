@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="6efb097a4553c0a5346878412a81cb80" name="navy-esprit-bag-olive-green-linen-list-blouse-tan-aldo-heels_400" size="0" attrgroup="han_full">
+    <pose>
+        <head type="SinglePoint">217,73</head>
+        <neck type="SinglePoint">210,127</neck>
+        <right_shoulder type="SinglePoint">243,150</right_shoulder>
+        <right_elbow type="SinglePoint">251,217</right_elbow>
+        <right_hand type="SinglePoint">261,289</right_hand>
+        <left_shoulder type="SinglePoint">165,144</left_shoulder>
+        <left_elbow type="SinglePoint">158,216</left_elbow>
+        <left_hand type="SinglePoint">151,280</left_hand>
+        <right_hip type="SinglePoint">234,257</right_hip>
+        <left_hip type="SinglePoint">182,265</left_hip>
+        <left_knee type="SinglePoint">197,355</left_knee>
+        <left_ankle type="SinglePoint">186,435</left_ankle>
+        <right_knee type="SinglePoint">220,335</right_knee>
+        <right_ankle type="SinglePoint">213,450</right_ankle>
+        <sLen_left type="StraightLine">147,214,159,220</sLen_left>
+        <sLen_right type="StraightLine">244,223,252,223</sLen_right>
+        <clothLen type="StraightLine">167,319,239,307</clothLen>
+        <L_Sleeve type="StraightLine">143,218,161,221</L_Sleeve>
+        <R_Sleeve type="StraightLine">246,223,260,221</R_Sleeve>
+        <Lenth type="StraightLine">174,308,239,304</Lenth>
+        <HSIColor1 type="StandardRect">173,172,181,183</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_half</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>10344285</color1>
+        <color2>9853285</color2>
+        <color3>3245592</color3>
+        <color4>2172050</color4>
+        <color5>578381</color5>
+        <open>open_no</open>
+        <sleeveValue>53.2</sleeveValue>
+        <lenthValue>56.8</lenthValue>
+        <Color1>7764088</Color1>
+    </attr>
+</file>

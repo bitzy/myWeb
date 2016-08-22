@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="c069961d69955ab27fa9a029d82d51e5" attrgroup="g14" name="2012RST-GIVENCHY-001fullscreen" size="0">
+    <pose>
+        <head type="SinglePoint">292,34</head>
+        <neck type="SinglePoint">292,137</neck>
+        <right_shoulder type="SinglePoint">363,173</right_shoulder>
+        <right_elbow type="SinglePoint">368,301</right_elbow>
+        <right_hand type="SinglePoint">371,419</right_hand>
+        <left_shoulder type="SinglePoint">214,169</left_shoulder>
+        <left_elbow type="SinglePoint">206,292</left_elbow>
+        <left_hand type="SinglePoint">206,412</left_hand>
+        <right_hip type="SinglePoint">338,375</right_hip>
+        <left_hip type="SinglePoint">243,369</left_hip>
+        <left_knee type="SinglePoint">257,567</left_knee>
+        <left_ankle type="SinglePoint">257,773</left_ankle>
+        <right_knee type="SinglePoint">326,550</right_knee>
+        <right_ankle type="SinglePoint">326,773</right_ankle>
+        <L_Sleeve type="StraightLine">203,238,224,242</L_Sleeve>
+        <R_Sleeve type="StraightLine">360,243,382,240</R_Sleeve>
+        <Lenth type="StraightLine">256,289,328,288</Lenth>
+        <HSIColor1 type="StandardRect">275,203,297,229</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>shirt</uclothcategory>
+        <sleeve>s_short</sleeve>
+        <up_length>short</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g14</attrgroup>
+        <color1>10993663</color1>
+        <color2>7269689</color2>
+        <color3>3453391</color3>
+        <color4>2842302</color4>
+        <color5>2268149</color5>
+        <sleeveValue>27.7</sleeveValue>
+        <lenthValue>23.7</lenthValue>
+        <Color1>15005180</Color1>
+    </attr>
+</file>

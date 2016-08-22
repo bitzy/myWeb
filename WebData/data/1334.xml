@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="71e96384305ca02bc9cfb6a8ab97b38f" name="TB29zdhbFXXXXbAXXXX_1077874115" size="0" attrgroup="han_half">
+    <pose>
+        <head type="SinglePoint">372,57</head>
+        <neck type="SinglePoint">383,201</neck>
+        <right_shoulder type="SinglePoint">497,273</right_shoulder>
+        <right_elbow type="SinglePoint">566,463</right_elbow>
+        <right_hand type="SinglePoint">546,677</right_hand>
+        <left_shoulder type="SinglePoint">262,282</left_shoulder>
+        <left_elbow type="SinglePoint">209,486</left_elbow>
+        <left_hand type="SinglePoint">203,653</left_hand>
+        <right_hip type="SinglePoint">464,681</right_hip>
+        <left_hip type="SinglePoint">311,671</left_hip>
+        <left_knee type="SinglePoint">-1,-1</left_knee>
+        <left_ankle type="SinglePoint">-1,-1</left_ankle>
+        <right_knee type="SinglePoint">-1,-1</right_knee>
+        <right_ankle type="SinglePoint">-1,-1</right_ankle>
+        <sLen_left type="StraightLine">170,642,223,639</sLen_left>
+        <sLen_right type="StraightLine">533,624,596,621</sLen_right>
+        <clothLen type="StraightLine">264,688,508,693</clothLen>
+        <L_Sleeve type="StraightLine">191,631,225,635</L_Sleeve>
+        <R_Sleeve type="StraightLine">540,629,572,628</R_Sleeve>
+        <Lenth type="StraightLine">264,675,490,675</Lenth>
+        <HSIColor1 type="StandardRect">431,358,471,389</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>25715013</color1>
+        <color2>170474</color2>
+        <color3>45642</color3>
+        <color4>237047</color4>
+        <color5>216242</color5>
+        <open>open_no</open>
+        <sleeveValue>91.1</sleeveValue>
+        <lenthValue>39.9</lenthValue>
+        <Color1>2367007</Color1>
+    </attr>
+</file>

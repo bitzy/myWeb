@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file attrgroup="han_full" md5="d2f1f2732ca62f4d22a6a3a0575214f1" name="alexander-wang-boots-club-monaco-suit_400" size="0">
+    <pose>
+        <head type="SinglePoint">201,59</head>
+        <neck type="SinglePoint">199,127</neck>
+        <right_shoulder type="SinglePoint">245,148</right_shoulder>
+        <right_elbow type="SinglePoint">252,228</right_elbow>
+        <right_hand type="SinglePoint">259,312</right_hand>
+        <left_shoulder type="SinglePoint">142,155</left_shoulder>
+        <left_elbow type="SinglePoint">123,222</left_elbow>
+        <left_hand type="SinglePoint">150,282</left_hand>
+        <right_hip type="SinglePoint">227,307</right_hip>
+        <left_hip type="SinglePoint">168,313</left_hip>
+        <left_knee type="SinglePoint">160,420</left_knee>
+        <left_ankle type="SinglePoint">159,540</left_ankle>
+        <right_knee type="SinglePoint">214,420</right_knee>
+        <right_ankle type="SinglePoint">192,547</right_ankle>
+        <L_Sleeve type="StraightLine">125,268,152,261</L_Sleeve>
+        <R_Sleeve type="StraightLine">255,305,271,306</R_Sleeve>
+        <Lenth type="StraightLine">149,329,238,329</Lenth>
+        <HSIColor1 type="StandardRect">223,212,238,224</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Vertical</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>14337426</color1>
+        <color2>7500877</color2>
+        <color3>2728454</color3>
+        <color4>988887</color4>
+        <color5>881877</color5>
+        <sleeveValue>89.9</sleeveValue>
+        <lenthValue>48.5</lenthValue>
+        <Color1>10768443</Color1>
+    </attr>
+</file>

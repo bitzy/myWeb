@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="8a1ae837da0f8753faa6e0d386dd9b4d" name="F2011MEN-MRRMOURET-00010fullscreen" size="0" attrgroup="g7">
+    <pose>
+        <head type="SinglePoint">292,34</head>
+        <neck type="SinglePoint">292,137</neck>
+        <right_shoulder type="SinglePoint">378,171</right_shoulder>
+        <right_elbow type="SinglePoint">395,343</right_elbow>
+        <right_hand type="SinglePoint">361,464</right_hand>
+        <left_shoulder type="SinglePoint">206,171</left_shoulder>
+        <left_elbow type="SinglePoint">171,309</left_elbow>
+        <left_hand type="SinglePoint">189,464</left_hand>
+        <right_hip type="SinglePoint">334,420</right_hip>
+        <left_hip type="SinglePoint">228,420</left_hip>
+        <left_knee type="SinglePoint">240,584</left_knee>
+        <left_ankle type="SinglePoint">206,773</left_ankle>
+        <right_knee type="SinglePoint">326,584</right_knee>
+        <right_ankle type="SinglePoint">326,773</right_ankle>
+        <L_Sleeve type="StraightLine">175,450,199,445</L_Sleeve>
+        <R_Sleeve type="StraightLine">354,442,374,447</R_Sleeve>
+        <Lenth type="StraightLine">215,455,329,459</Lenth>
+        <HSIColor1 type="StandardRect">326,266,340,286</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>suit</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g7</attrgroup>
+        <color1>12670424</color1>
+        <color2>5875485</color2>
+        <color3>3474579</color3>
+        <color4>3020963</color4>
+        <color5>1098574</color5>
+        <sleeveValue>93.3</sleeveValue>
+        <lenthValue>50.3</lenthValue>
+        <Color1>5593692</Color1>
+    </attr>
+</file>

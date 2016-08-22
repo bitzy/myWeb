@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="003caf145fca739ef49ea7e19fd62201" attrgroup="han_half" name="light-blue-levis-shirt-navy-backpack-band-of-players-bag_400" size="0">
+    <pose>
+        <head type="SinglePoint">152,63</head>
+        <neck type="SinglePoint">191,140</neck>
+        <right_shoulder type="SinglePoint">269,173</right_shoulder>
+        <right_elbow type="SinglePoint">299,277</right_elbow>
+        <right_hand type="SinglePoint">256,243</right_hand>
+        <left_shoulder type="SinglePoint">128,168</left_shoulder>
+        <left_elbow type="SinglePoint">110,273</left_elbow>
+        <left_hand type="SinglePoint">130,201</left_hand>
+        <right_hip type="SinglePoint">232,373</right_hip>
+        <left_hip type="SinglePoint">153,386</left_hip>
+        <left_knee type="SinglePoint">128,525</left_knee>
+        <left_ankle type="SinglePoint">null</left_ankle>
+        <right_knee type="SinglePoint">220,526</right_knee>
+        <right_ankle type="SinglePoint">null</right_ankle>
+        <L_Sleeve type="StraightLine">null</L_Sleeve>
+        <R_Sleeve type="StraightLine">278,238,305,238</R_Sleeve>
+        <Lenth type="StraightLine">143,382,229,388</Lenth>
+        <HSIColor1 type="StandardRect">180,200,196,219</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_short</sleeve>
+        <up_length>normal</up_length>
+        <texture>Horizontal</texture>
+        <button>B</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>18054450</color1>
+        <color2>3353449</color2>
+        <color3>1756216</color3>
+        <color4>1647436</color4>
+        <color5>1818231</color5>
+        <sleeveValue>31.2</sleeveValue>
+        <lenthValue>44.5</lenthValue>
+        <Color1>14997191</Color1>
+    </attr>
+</file>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="90c9cf64755279ebb11908ff47524c4a" name="teranova-jacket-roccobarocco-shorts-quartz-watch_400" size="0" attrgroup="han_half">
+    <pose>
+        <head type="SinglePoint">192,33</head>
+        <neck type="SinglePoint">186,96</neck>
+        <right_shoulder type="SinglePoint">230,112</right_shoulder>
+        <right_elbow type="SinglePoint">278,177</right_elbow>
+        <right_hand type="SinglePoint">284,260</right_hand>
+        <left_shoulder type="SinglePoint">128,120</left_shoulder>
+        <left_elbow type="SinglePoint">54,170</left_elbow>
+        <left_hand type="SinglePoint">113,195</left_hand>
+        <right_hip type="SinglePoint">250,259</right_hip>
+        <left_hip type="SinglePoint">196,262</left_hip>
+        <left_knee type="SinglePoint">242,386</left_knee>
+        <left_ankle type="SinglePoint">196,503</left_ankle>
+        <right_knee type="SinglePoint">247,402</right_knee>
+        <right_ankle type="SinglePoint">250,518</right_ankle>
+        <L_Sleeve type="StraightLine">91,171,83,187</L_Sleeve>
+        <R_Sleeve type="StraightLine">265,242,291,250</R_Sleeve>
+        <Lenth type="StraightLine">179,254,256,249</Lenth>
+        <HSIColor1 type="StandardRect">178,113,204,142</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>18125061</color1>
+        <color2>4780553</color2>
+        <color3>2188109</color3>
+        <color4>786366</color4>
+        <color5>115858</color5>
+        <sleeveValue>83.8</sleeveValue>
+        <lenthValue>37.3</lenthValue>
+        <Color1>5780532</Color1>
+    </attr>
+</file>

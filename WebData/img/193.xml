@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="1175421377f16aae738a8bf2880678d7" attrgroup="han_full" name="red-sunglasses-gray-marks-and-spencers-brown-marithe-francois-girbaud-purse-_400" size="0">
+    <pose>
+        <head type="SinglePoint">240,90</head>
+        <neck type="SinglePoint">241,158</neck>
+        <right_shoulder type="SinglePoint">277,196</right_shoulder>
+        <right_elbow type="SinglePoint">273,288</right_elbow>
+        <right_hand type="SinglePoint">256,378</right_hand>
+        <left_shoulder type="SinglePoint">183,177</left_shoulder>
+        <left_elbow type="SinglePoint">150,237</left_elbow>
+        <left_hand type="SinglePoint">178,267</left_hand>
+        <right_hip type="SinglePoint">230,333</right_hip>
+        <left_hip type="SinglePoint">173,320</left_hip>
+        <left_knee type="SinglePoint">146,427</left_knee>
+        <left_ankle type="SinglePoint">107,548</left_ankle>
+        <right_knee type="SinglePoint">215,447</right_knee>
+        <right_ankle type="SinglePoint">196,543</right_ankle>
+        <L_Sleeve type="StraightLine">148,211,161,219</L_Sleeve>
+        <R_Sleeve type="StraightLine">271,257,287,252</R_Sleeve>
+        <Lenth type="StraightLine">179,300,233,304</Lenth>
+        <HSIColor1 type="StandardRect">212,209,235,224</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_short</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>8883637</color1>
+        <color2>5983344</color2>
+        <color3>5434090</color3>
+        <color4>3740892</color4>
+        <color5>2293052</color5>
+        <sleeveValue>33.2</sleeveValue>
+        <lenthValue>36.2</lenthValue>
+        <Color1>12892082</Color1>
+    </attr>
+</file>

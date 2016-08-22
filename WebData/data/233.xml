@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="156730ada20e8faf04badca1db4a242b" attrgroup="han_full" name="Emidio-Tucci-Gtresonline-whforhim" size="0">
+    <pose>
+        <head type="SinglePoint">311,84</head>
+        <neck type="SinglePoint">314,190</neck>
+        <right_shoulder type="SinglePoint">406,215</right_shoulder>
+        <right_elbow type="SinglePoint">435,364</right_elbow>
+        <right_hand type="SinglePoint">420,497</right_hand>
+        <left_shoulder type="SinglePoint">235,231</left_shoulder>
+        <left_elbow type="SinglePoint">232,396</left_elbow>
+        <left_hand type="SinglePoint">217,528</left_hand>
+        <right_hip type="SinglePoint">384,481</right_hip>
+        <left_hip type="SinglePoint">288,478</left_hip>
+        <left_knee type="SinglePoint">297,664</left_knee>
+        <left_ankle type="SinglePoint">298,868</left_ankle>
+        <right_knee type="SinglePoint">380,657</right_knee>
+        <right_ankle type="SinglePoint">367,806</right_ankle>
+        <L_Sleeve type="StraightLine">201,510,236,511</L_Sleeve>
+        <R_Sleeve type="StraightLine">424,480,438,484</R_Sleeve>
+        <Lenth type="StraightLine">281,512,388,510</Lenth>
+        <HSIColor1 type="StandardRect">326,323,356,336</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>19223599</color1>
+        <color2>5096883</color2>
+        <color3>856873</color3>
+        <color4>590495</color4>
+        <color5>495162</color5>
+        <sleeveValue>93.2</sleeveValue>
+        <lenthValue>49.6</lenthValue>
+        <Color1>7360192</Color1>
+    </attr>
+</file>

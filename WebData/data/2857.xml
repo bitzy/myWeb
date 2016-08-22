@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="2014RST-PLIM-Phillip_Lim_035_1366" size="0" md5="f0d9929e1f2b4f04c7249b05e1a8b5a7" attrgroup="g14">
+    <pose>
+        <head type="SinglePoint">326,51</head>
+        <neck type="SinglePoint">326,154</neck>
+        <right_shoulder type="SinglePoint">387,198</right_shoulder>
+        <right_elbow type="SinglePoint">419,298</right_elbow>
+        <right_hand type="SinglePoint">422,420</right_hand>
+        <left_shoulder type="SinglePoint">246,194</left_shoulder>
+        <left_elbow type="SinglePoint">237,313</left_elbow>
+        <left_hand type="SinglePoint">252,425</left_hand>
+        <right_hip type="SinglePoint">388,411</right_hip>
+        <left_hip type="SinglePoint">290,414</left_hip>
+        <left_knee type="SinglePoint">285,579</left_knee>
+        <left_ankle type="SinglePoint">275,791</left_ankle>
+        <right_knee type="SinglePoint">378,601</right_knee>
+        <right_ankle type="SinglePoint">343,773</right_ankle>
+        <L_Sleeve type="StraightLine">232,412,259,408</L_Sleeve>
+        <R_Sleeve type="StraightLine">414,406,442,407</R_Sleeve>
+        <Lenth type="StraightLine">297,371,382,377</Lenth>
+        <HSIColor1 type="StandardRect">369,270,390,300</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>t-shirt</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g14</attrgroup>
+        <color1>23846710</color1>
+        <color2>1551919</color2>
+        <color3>740465</color3>
+        <color4>4096</color4>
+        <color5>187048</color5>
+        <sleeveValue>93.5</sleeveValue>
+        <lenthValue>35.0</lenthValue>
+        <Color1>15789518</Color1>
+    </attr>
+</file>

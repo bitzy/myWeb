@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="2012PF-TERETBANT-002fullscreen" size="0" md5="f1988bcf88ca14e55a4d7b5aaa926aa1" attrgroup="g10">
+    <pose>
+        <head type="SinglePoint">275,34</head>
+        <neck type="SinglePoint">275,137</neck>
+        <right_shoulder type="SinglePoint">335,167</right_shoulder>
+        <right_elbow type="SinglePoint">343,275</right_elbow>
+        <right_hand type="SinglePoint">343,395</right_hand>
+        <left_shoulder type="SinglePoint">209,173</left_shoulder>
+        <left_elbow type="SinglePoint">206,292</left_elbow>
+        <left_hand type="SinglePoint">206,412</left_hand>
+        <right_hip type="SinglePoint">315,347</right_hip>
+        <left_hip type="SinglePoint">232,355</left_hip>
+        <left_knee type="SinglePoint">254,527</left_knee>
+        <left_ankle type="SinglePoint">259,721</left_ankle>
+        <right_knee type="SinglePoint">303,527</right_knee>
+        <right_ankle type="SinglePoint">293,713</right_ankle>
+        <L_Sleeve type="StraightLine">216,163,222,185</L_Sleeve>
+        <R_Sleeve type="StraightLine">328,156,329,173</R_Sleeve>
+        <Lenth type="StraightLine">220,507,301,502</Lenth>
+        <HSIColor1 type="StandardRect">279,209,288,220</HSIColor1>
+        <HSIColor2 type="StandardRect">223,205,240,222</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g10</attrgroup>
+        <color1>12865927</color1>
+        <color2>5838036</color2>
+        <color3>3445453</color3>
+        <color4>2393495</color4>
+        <color5>1103710</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>63.3</lenthValue>
+        <Color1>3620936</Color1>
+        <Color2>3302248</Color2>
+    </attr>
+</file>

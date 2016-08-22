@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="199" size="0" md5="f287174106daf8dfe90b3bb121be0c27" attrgroup="Deballer_f">
+    <pose>
+        <head type="SinglePoint">285,77</head>
+        <neck type="SinglePoint">276,201</neck>
+        <right_shoulder type="SinglePoint">340,224</right_shoulder>
+        <right_elbow type="SinglePoint">331,328</right_elbow>
+        <right_hand type="SinglePoint">344,432</right_hand>
+        <left_shoulder type="SinglePoint">215,215</left_shoulder>
+        <left_elbow type="SinglePoint">183,319</left_elbow>
+        <left_hand type="SinglePoint">139,416</left_hand>
+        <right_hip type="SinglePoint">294,402</right_hip>
+        <left_hip type="SinglePoint">231,414</left_hip>
+        <left_knee type="SinglePoint">221,559</left_knee>
+        <left_ankle type="SinglePoint">211,728</left_ankle>
+        <right_knee type="SinglePoint">287,555</right_knee>
+        <right_ankle type="SinglePoint">272,732</right_ankle>
+        <L_Sleeve type="StraightLine">null</L_Sleeve>
+        <R_Sleeve type="StraightLine">341,203,332,228</R_Sleeve>
+        <Lenth type="StraightLine">201,342,311,348</Lenth>
+        <HSIColor1 type="StandardRect">264,270,284,286</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>vest</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>short</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>Deballer_f</attrgroup>
+        <color1>16735409</color1>
+        <color2>4227397</color2>
+        <color3>2446617</color3>
+        <color4>1555957</color4>
+        <color5>1248108</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>27.2</lenthValue>
+        <Color1>13417913</Color1>
+    </attr>
+</file>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="0cd78564d0486118bc4eed2f6c22a762" name="2014RST-BALENCIA-Balenciaga_005_1366" size="0" attrgroup="g11">
+    <pose>
+        <head type="SinglePoint">275,68</head>
+        <neck type="SinglePoint">292,171</neck>
+        <right_shoulder type="SinglePoint">358,191</right_shoulder>
+        <right_elbow type="SinglePoint">359,325</right_elbow>
+        <right_hand type="SinglePoint">365,447</right_hand>
+        <left_shoulder type="SinglePoint">223,190</left_shoulder>
+        <left_elbow type="SinglePoint">208,316</left_elbow>
+        <left_hand type="SinglePoint">189,437</left_hand>
+        <right_hip type="SinglePoint">333,386</right_hip>
+        <left_hip type="SinglePoint">230,382</left_hip>
+        <left_knee type="SinglePoint">225,597</left_knee>
+        <left_ankle type="SinglePoint">225,751</left_ankle>
+        <right_knee type="SinglePoint">315,582</right_knee>
+        <right_ankle type="SinglePoint">318,772</right_ankle>
+        <L_Sleeve type="StraightLine">200,285,218,284</L_Sleeve>
+        <R_Sleeve type="StraightLine">353,289,381,285</R_Sleeve>
+        <Lenth type="StraightLine">231,357,317,364</Lenth>
+        <HSIColor1 type="StandardRect">258,235,299,269</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>shirt</uclothcategory>
+        <sleeve>s_short</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g11</attrgroup>
+        <color1>26201912</color1>
+        <color2>228851</color2>
+        <color3>249593</color3>
+        <color4>253690</color4>
+        <color5>216369</color5>
+        <sleeveValue>36.7</sleeveValue>
+        <lenthValue>32.0</lenthValue>
+        <Color1>15790305</Color1>
+    </attr>
+</file>

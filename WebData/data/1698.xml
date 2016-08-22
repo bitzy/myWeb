@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="91d8da1e4f89e139680ec05f9ff0a9a2" name="F2010MEN-CANALI-00230fullscreen" size="0" attrgroup="g9">
+    <pose>
+        <head type="SinglePoint">294,18</head>
+        <neck type="SinglePoint">294,128</neck>
+        <right_shoulder type="SinglePoint">381,165</right_shoulder>
+        <right_elbow type="SinglePoint">403,317</right_elbow>
+        <right_hand type="SinglePoint">405,460</right_hand>
+        <left_shoulder type="SinglePoint">239,147</left_shoulder>
+        <left_elbow type="SinglePoint">183,285</left_elbow>
+        <left_hand type="SinglePoint">165,423</left_hand>
+        <right_hip type="SinglePoint">349,416</right_hip>
+        <left_hip type="SinglePoint">227,427</left_hip>
+        <left_knee type="SinglePoint">250,596</left_knee>
+        <left_ankle type="SinglePoint">269,732</left_ankle>
+        <right_knee type="SinglePoint">325,592</right_knee>
+        <right_ankle type="SinglePoint">309,805</right_ankle>
+        <L_Sleeve type="StraightLine">155,418,178,418</L_Sleeve>
+        <R_Sleeve type="StraightLine">395,438,414,438</R_Sleeve>
+        <Lenth type="StraightLine">216,453,379,455</Lenth>
+        <HSIColor1 type="StandardRect">331,280,350,291</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>suit</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g9</attrgroup>
+        <color1>12878409</color1>
+        <color2>5297039</color2>
+        <color3>3158276</color3>
+        <color4>2954452</color4>
+        <color5>1668698</color5>
+        <sleeveValue>95.1</sleeveValue>
+        <lenthValue>50.9</lenthValue>
+        <Color1>3356988</Color1>
+    </attr>
+</file>

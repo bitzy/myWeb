@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="9f0ce05aaf92a6c09fbc32b6946f78dd" name="000608" size="0" attrgroup="han_half">
+    <pose>
+        <head type="SinglePoint">505,71</head>
+        <neck type="SinglePoint">511,220</neck>
+        <right_shoulder type="SinglePoint">618,258</right_shoulder>
+        <right_elbow type="SinglePoint">626,443</right_elbow>
+        <right_hand type="SinglePoint">643,628</right_hand>
+        <left_shoulder type="SinglePoint">397,280</left_shoulder>
+        <left_elbow type="SinglePoint">398,479</left_elbow>
+        <left_hand type="SinglePoint">376,648</left_hand>
+        <right_hip type="SinglePoint">591,620</right_hip>
+        <left_hip type="SinglePoint">450,615</left_hip>
+        <left_knee type="SinglePoint">null</left_knee>
+        <left_ankle type="SinglePoint">null</left_ankle>
+        <right_knee type="SinglePoint">null</right_knee>
+        <right_ankle type="SinglePoint">null</right_ankle>
+        <L_Sleeve type="StraightLine">366,640,391,643</L_Sleeve>
+        <R_Sleeve type="StraightLine">633,618,656,617</R_Sleeve>
+        <Lenth type="StraightLine">414,627,583,632</Lenth>
+        <HSIColor1 type="StandardRect">513,439,549,480</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>23433782</color1>
+        <color2>868783</color2>
+        <color3>786437</color3>
+        <color4>582477</color4>
+        <color5>291271</color5>
+        <sleeveValue>97.5</sleeveValue>
+        <lenthValue>41.2</lenthValue>
+        <Color1>6824148</Color1>
+    </attr>
+</file>

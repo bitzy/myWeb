@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="96bf314932f82d1f210722f17d7f20f2" name="2014RST-TWEILAND-TimoWeiland_021_1366" size="0" attrgroup="g7">
+    <pose>
+        <head type="SinglePoint">292,51</head>
+        <neck type="SinglePoint">280,156</neck>
+        <right_shoulder type="SinglePoint">350,178</right_shoulder>
+        <right_elbow type="SinglePoint">361,275</right_elbow>
+        <right_hand type="SinglePoint">361,378</right_hand>
+        <left_shoulder type="SinglePoint">210,184</left_shoulder>
+        <left_elbow type="SinglePoint">199,335</left_elbow>
+        <left_hand type="SinglePoint">200,431</left_hand>
+        <right_hip type="SinglePoint">319,421</right_hip>
+        <left_hip type="SinglePoint">234,421</left_hip>
+        <left_knee type="SinglePoint">182,585</left_knee>
+        <left_ankle type="SinglePoint">226,761</left_ankle>
+        <right_knee type="SinglePoint">303,592</right_knee>
+        <right_ankle type="SinglePoint">299,765</right_ankle>
+        <L_Sleeve type="StraightLine">181,259,215,269</L_Sleeve>
+        <R_Sleeve type="StraightLine">350,275,374,262</R_Sleeve>
+        <Lenth type="StraightLine">223,416,311,410</Lenth>
+        <HSIColor1 type="StandardRect">241,233,277,260</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>t-shirt</uclothcategory>
+        <sleeve>s_short</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g7</attrgroup>
+        <color1>20131120</color1>
+        <color2>3857386</color2>
+        <color3>1215263</color3>
+        <color4>1019509</color4>
+        <color5>408027</color5>
+        <sleeveValue>36.8</sleeveValue>
+        <lenthValue>42.3</lenthValue>
+        <Color1>13489351</Color1>
+    </attr>
+</file>

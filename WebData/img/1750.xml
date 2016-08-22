@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="9658e9732f414a641bc0365812640c5e" name="TB1l775HpXXXXXHXpXX_0-item_pic" size="0" attrgroup="han_half">
+    <pose>
+        <head type="SinglePoint">378,69</head>
+        <neck type="SinglePoint">427,261</neck>
+        <right_shoulder type="SinglePoint">559,267</right_shoulder>
+        <right_elbow type="SinglePoint">567,462</right_elbow>
+        <right_hand type="SinglePoint">525,683</right_hand>
+        <left_shoulder type="SinglePoint">322,296</left_shoulder>
+        <left_elbow type="SinglePoint">339,545</left_elbow>
+        <left_hand type="SinglePoint">392,715</left_hand>
+        <right_hip type="SinglePoint">541,690</right_hip>
+        <left_hip type="SinglePoint">380,667</left_hip>
+        <left_knee type="SinglePoint">null</left_knee>
+        <left_ankle type="SinglePoint">null</left_ankle>
+        <right_knee type="SinglePoint">null</right_knee>
+        <right_ankle type="SinglePoint">null</right_ankle>
+        <L_Sleeve type="StraightLine">332,560,357,551</L_Sleeve>
+        <R_Sleeve type="StraightLine">533,554,570,558</R_Sleeve>
+        <Lenth type="StraightLine">377,677,503,677</Lenth>
+        <HSIColor1 type="StandardRect">400,412,440,431</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>19123963</color1>
+        <color2>3890485</color2>
+        <color3>2288761</color3>
+        <color4>711536</color4>
+        <color5>637217</color5>
+        <sleeveValue>62.1</sleeveValue>
+        <lenthValue>39.8</lenthValue>
+        <Color1>15789293</Color1>
+    </attr>
+</file>

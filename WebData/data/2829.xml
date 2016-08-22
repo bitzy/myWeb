@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="topman-suit_400" size="0" md5="eef84da28b5394af67e31ba002a9de57" attrgroup="han_full">
+    <pose>
+        <head type="SinglePoint">196,64</head>
+        <neck type="SinglePoint">191,139</neck>
+        <right_shoulder type="SinglePoint">235,149</right_shoulder>
+        <right_elbow type="SinglePoint">252,240</right_elbow>
+        <right_hand type="SinglePoint">234,310</right_hand>
+        <left_shoulder type="SinglePoint">142,153</left_shoulder>
+        <left_elbow type="SinglePoint">139,240</left_elbow>
+        <left_hand type="SinglePoint">129,301</left_hand>
+        <right_hip type="SinglePoint">211,316</right_hip>
+        <left_hip type="SinglePoint">157,315</left_hip>
+        <left_knee type="SinglePoint">150,404</left_knee>
+        <left_ankle type="SinglePoint">169,512</left_ankle>
+        <right_knee type="SinglePoint">215,408</right_knee>
+        <right_ankle type="SinglePoint">209,529</right_ankle>
+        <L_Sleeve type="StraightLine">125,287,138,299</L_Sleeve>
+        <R_Sleeve type="StraightLine">240,305,246,313</R_Sleeve>
+        <Lenth type="StraightLine">140,305,207,306</Lenth>
+        <HSIColor1 type="StandardRect">188,202,210,214</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>17064267</color1>
+        <color2>5808658</color2>
+        <color3>2683674</color3>
+        <color4>245305</color4>
+        <color5>82975</color5>
+        <sleeveValue>92.8</sleeveValue>
+        <lenthValue>43.6</lenthValue>
+        <Color1>1643564</Color1>
+    </attr>
+</file>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="b39c303e96b2b6e4f22d8a18157de6a8" attrgroup="g6" name="2013RST-THAKOON-006fullscreen" size="0">
+    <pose>
+        <head type="SinglePoint">292,34</head>
+        <neck type="SinglePoint">292,137</neck>
+        <right_shoulder type="SinglePoint">353,171</right_shoulder>
+        <right_elbow type="SinglePoint">363,309</right_elbow>
+        <right_hand type="SinglePoint">377,434</right_hand>
+        <left_shoulder type="SinglePoint">223,171</left_shoulder>
+        <left_elbow type="SinglePoint">206,292</left_elbow>
+        <left_hand type="SinglePoint">206,447</left_hand>
+        <right_hip type="SinglePoint">326,395</right_hip>
+        <left_hip type="SinglePoint">257,395</left_hip>
+        <left_knee type="SinglePoint">240,584</left_knee>
+        <left_ankle type="SinglePoint">223,773</left_ankle>
+        <right_knee type="SinglePoint">343,584</right_knee>
+        <right_ankle type="SinglePoint">343,773</right_ankle>
+        <L_Sleeve type="StraightLine">229,167,224,192</L_Sleeve>
+        <R_Sleeve type="StraightLine">352,162,352,182</R_Sleeve>
+        <Lenth type="StraightLine">220,521,346,517</Lenth>
+        <HSIColor1 type="StandardRect">284,432,296,437</HSIColor1>
+        <HSIColor2 type="StandardRect">300,453,308,462</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Horizontal</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g6</attrgroup>
+        <color1>13606716</color1>
+        <color2>8621937</color2>
+        <color3>2047658</color3>
+        <color4>1244468</color4>
+        <color5>1228063</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>60.1</lenthValue>
+        <Color1>14543079</Color1>
+        <Color2>12903588</Color2>
+    </attr>
+</file>

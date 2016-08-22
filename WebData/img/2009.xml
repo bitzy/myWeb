@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="ac2867b2753e6f5d1fa4a65a07b48290" attrgroup="g15" name="2011RST-TIBI-00140fullscreen" size="0">
+    <pose>
+        <head type="SinglePoint">292,51</head>
+        <neck type="SinglePoint">286,169</neck>
+        <right_shoulder type="SinglePoint">358,203</right_shoulder>
+        <right_elbow type="SinglePoint">368,313</right_elbow>
+        <right_hand type="SinglePoint">366,400</right_hand>
+        <left_shoulder type="SinglePoint">213,214</left_shoulder>
+        <left_elbow type="SinglePoint">210,339</left_elbow>
+        <left_hand type="SinglePoint">206,453</left_hand>
+        <right_hip type="SinglePoint">341,380</right_hip>
+        <left_hip type="SinglePoint">242,396</left_hip>
+        <left_knee type="SinglePoint">253,570</left_knee>
+        <left_ankle type="SinglePoint">267,771</left_ankle>
+        <right_knee type="SinglePoint">330,583</right_knee>
+        <right_ankle type="SinglePoint">323,777</right_ankle>
+        <L_Sleeve type="StraightLine">229,189,229,221</L_Sleeve>
+        <R_Sleeve type="StraightLine">338,188,342,209</R_Sleeve>
+        <Lenth type="StraightLine">221,370,353,365</Lenth>
+        <HSIColor1 type="StandardRect">276,262,301,283</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>vest</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>normal</up_length>
+        <texture>Other</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g15</attrgroup>
+        <color1>18413015</color1>
+        <color2>3982482</color2>
+        <color3>1864460</color3>
+        <color4>1048576</color4>
+        <color5>270791</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>32.7</lenthValue>
+        <Color1>4086108</Color1>
+    </attr>
+</file>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="2014RST-MNONOO-MishaNonoo_018_1366" size="0" md5="f50b59749af0d1aba5b9fcf33363d963" attrgroup="g5">
+    <pose>
+        <head type="SinglePoint">284,193</head>
+        <neck type="SinglePoint">271,263</neck>
+        <right_shoulder type="SinglePoint">327,280</right_shoulder>
+        <right_elbow type="SinglePoint">335,386</right_elbow>
+        <right_hand type="SinglePoint">346,481</right_hand>
+        <left_shoulder type="SinglePoint">221,293</left_shoulder>
+        <left_elbow type="SinglePoint">215,398</left_elbow>
+        <left_hand type="SinglePoint">209,487</left_hand>
+        <right_hip type="SinglePoint">322,453</right_hip>
+        <left_hip type="SinglePoint">240,455</left_hip>
+        <left_knee type="SinglePoint">258,598</left_knee>
+        <left_ankle type="SinglePoint">261,760</left_ankle>
+        <right_knee type="SinglePoint">339,603</right_knee>
+        <right_ankle type="SinglePoint">302,750</right_ankle>
+        <L_Sleeve type="StraightLine">205,339,225,342</L_Sleeve>
+        <R_Sleeve type="StraightLine">325,334,343,333</R_Sleeve>
+        <Lenth type="StraightLine">222,551,341,558</Lenth>
+        <HSIColor1 type="StandardRect">268,403,280,413</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_short</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g5</attrgroup>
+        <color1>22066685</color1>
+        <color2>1632255</color2>
+        <color3>1352887</color3>
+        <color4>279217</color4>
+        <color5>337123</color5>
+        <sleeveValue>23.7</sleeveValue>
+        <lenthValue>59.1</lenthValue>
+        <Color1>3042040</Color1>
+    </attr>
+</file>

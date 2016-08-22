@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="a4a4ad57725ec68b22299766063f98c7" attrgroup="g5" name="2013RST-PAULJOE-001fullscreen" size="0">
+    <pose>
+        <head type="SinglePoint">257,120</head>
+        <neck type="SinglePoint">275,206</neck>
+        <right_shoulder type="SinglePoint">336,212</right_shoulder>
+        <right_elbow type="SinglePoint">352,329</right_elbow>
+        <right_hand type="SinglePoint">343,436</right_hand>
+        <left_shoulder type="SinglePoint">205,239</left_shoulder>
+        <left_elbow type="SinglePoint">201,347</left_elbow>
+        <left_hand type="SinglePoint">189,453</left_hand>
+        <right_hip type="SinglePoint">304,439</right_hip>
+        <left_hip type="SinglePoint">226,439</left_hip>
+        <left_knee type="SinglePoint">238,570</left_knee>
+        <left_ankle type="SinglePoint">258,753</left_ankle>
+        <right_knee type="SinglePoint">274,573</right_knee>
+        <right_ankle type="SinglePoint">292,744</right_ankle>
+        <L_Sleeve type="StraightLine">183,438,208,437</L_Sleeve>
+        <R_Sleeve type="StraightLine">337,420,363,420</R_Sleeve>
+        <Lenth type="StraightLine">210,561,349,561</Lenth>
+        <HSIColor1 type="StandardRect">261,277,286,296</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g5</attrgroup>
+        <color1>16057576</color1>
+        <color2>3458018</color2>
+        <color3>2396891</color3>
+        <color4>2109707</color4>
+        <color5>1835013</color5>
+        <sleeveValue>92.5</sleeveValue>
+        <lenthValue>65.5</lenthValue>
+        <Color1>4739756</Color1>
+    </attr>
+</file>

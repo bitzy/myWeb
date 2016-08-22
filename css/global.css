@@ -1,0 +1,75 @@
+body{
+	padding:0;
+	margin:0;
+	font-size:12px;
+	font-family:"Arial","宋体";
+	width:80%;
+	margin-left:10%;
+}
+
+p,div{
+	padding:0;
+	margin:0;
+	font-size:12px;
+	font-family:"Arial","宋体"
+}
+
+.titleClass {
+	font-weight:bold;
+	height:30px;
+	line-height:30px;
+}
+
+.titleClass > span{
+	font-weight:normal;
+	height:30px;
+	line-height:30px;
+}
+
+.imgArea {
+	clear:both;
+	min-height:400px;
+	text-align:center;
+	background-color:#e6e6e6;
+}
+
+.flagImg {
+	width:12px;
+	height:12px;
+}
+
+/*--------------- table ---------------*/
+td {
+	text-align:center;
+	font-size:12px;
+}
+table {
+	border-collapse:collapse;
+	font-size:12px;
+	font-family:"Arial","宋体";
+}
+.table-bordered th {
+	border: 1px solid black !important;
+}
+.table-bordered {
+	border: none;
+}
+.table-bordered > thead > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > th,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > th,
+.table-bordered > tfoot > tr > td {
+	border: 1px solid black;
+}
+.table-bordered > thead > tr > th,
+.table-bordered > thead > tr > td {
+ 	border-bottom-width: 2px;
+}
+
+.attrKey {
+	width:80px;
+}
+.attrValue {
+	width:180px;
+}

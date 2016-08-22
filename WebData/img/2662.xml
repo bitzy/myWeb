@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file attrgroup="han_full" md5="df88f530604dd93d52a0dddb44f2e067" name="black-zara-blazer-turquoise-blue-metallic-topshop-pants_400" size="0">
+    <pose>
+        <head type="SinglePoint">169,60</head>
+        <neck type="SinglePoint">182,127</neck>
+        <right_shoulder type="SinglePoint">234,152</right_shoulder>
+        <right_elbow type="SinglePoint">232,243</right_elbow>
+        <right_hand type="SinglePoint">231,323</right_hand>
+        <left_shoulder type="SinglePoint">129,143</left_shoulder>
+        <left_elbow type="SinglePoint">107,222</left_elbow>
+        <left_hand type="SinglePoint">73,280</left_hand>
+        <right_hip type="SinglePoint">198,286</right_hip>
+        <left_hip type="SinglePoint">133,283</left_hip>
+        <left_knee type="SinglePoint">133,400</left_knee>
+        <left_ankle type="SinglePoint">136,513</left_ankle>
+        <right_knee type="SinglePoint">189,418</right_knee>
+        <right_ankle type="SinglePoint">180,520</right_ankle>
+        <L_Sleeve type="StraightLine">82,234,98,244</L_Sleeve>
+        <R_Sleeve type="StraightLine">226,278,243,284</R_Sleeve>
+        <Lenth type="StraightLine">123,275,180,280</Lenth>
+        <HSIColor1 type="StandardRect">146,190,179,215</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>22090510</color1>
+        <color2>3977673</color2>
+        <color3>37192</color3>
+        <color4>62091</color4>
+        <color5>53837</color5>
+        <sleeveValue>69.9</sleeveValue>
+        <lenthValue>38.5</lenthValue>
+        <Color1>3417133</Color1>
+    </attr>
+</file>

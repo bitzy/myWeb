@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="1908" size="0" md5="f3ac628a40e04a4461f7afcc4c07fbc6" attrgroup="han_full">
+    <pose>
+        <head type="SinglePoint">244,68</head>
+        <neck type="SinglePoint">249,156</neck>
+        <right_shoulder type="SinglePoint">310,206</right_shoulder>
+        <right_elbow type="SinglePoint">326,321</right_elbow>
+        <right_hand type="SinglePoint">361,419</right_hand>
+        <left_shoulder type="SinglePoint">179,202</left_shoulder>
+        <left_elbow type="SinglePoint">131,306</left_elbow>
+        <left_hand type="SinglePoint">172,387</left_hand>
+        <right_hip type="SinglePoint">294,385</right_hip>
+        <left_hip type="SinglePoint">231,373</left_hip>
+        <left_knee type="SinglePoint">220,538</left_knee>
+        <left_ankle type="SinglePoint">213,716</left_ankle>
+        <right_knee type="SinglePoint">288,535</right_knee>
+        <right_ankle type="SinglePoint">270,726</right_ankle>
+        <L_Sleeve type="StraightLine">149,200,162,220</L_Sleeve>
+        <R_Sleeve type="StraightLine">null</R_Sleeve>
+        <Lenth type="StraightLine">208,315,282,313</Lenth>
+        <HSIColor1 type="StandardRect">230,203,251,228</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_no</sleeve>
+        <up_length>short</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>17284794</color1>
+        <color2>4539342</color2>
+        <color3>1888971</color3>
+        <color4>1805684</color4>
+        <color5>715694</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>28.0</lenthValue>
+        <Color1>15526121</Color1>
+    </attr>
+</file>

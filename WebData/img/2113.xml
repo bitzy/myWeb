@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="b2f921f8f48b02e6acb102e0795cf390" attrgroup="han_full" name="0837" size="0">
+    <pose>
+        <head type="SinglePoint">271,70</head>
+        <neck type="SinglePoint">268,185</neck>
+        <right_shoulder type="SinglePoint">325,212</right_shoulder>
+        <right_elbow type="SinglePoint">338,325</right_elbow>
+        <right_hand type="SinglePoint">340,416</right_hand>
+        <left_shoulder type="SinglePoint">191,213</left_shoulder>
+        <left_elbow type="SinglePoint">181,344</left_elbow>
+        <left_hand type="SinglePoint">180,467</left_hand>
+        <right_hip type="SinglePoint">302,423</right_hip>
+        <left_hip type="SinglePoint">232,420</left_hip>
+        <left_knee type="SinglePoint">226,568</left_knee>
+        <left_ankle type="SinglePoint">214,723</left_ankle>
+        <right_knee type="SinglePoint">279,565</right_knee>
+        <right_ankle type="SinglePoint">261,728</right_ankle>
+        <L_Sleeve type="StraightLine">167,471,193,461</L_Sleeve>
+        <R_Sleeve type="StraightLine">null</R_Sleeve>
+        <Lenth type="StraightLine">184,557,299,563</Lenth>
+        <HSIColor1 type="StandardRect">248,288,261,298</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>9603952</color1>
+        <color2>7207337</color2>
+        <color3>7165793</color3>
+        <color4>1127962</color4>
+        <color5>844949</color5>
+        <sleeveValue>99.2</sleeveValue>
+        <lenthValue>69.3</lenthValue>
+        <Color1>10270144</Color1>
+    </attr>
+</file>

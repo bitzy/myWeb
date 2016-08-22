@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file attrgroup="han_full" name="black-knee-high-boots-salvatore-ferragamo-boots_400" size="0" md5="7f0ac320aa017ba2b523a68b8dc61516">
+    <pose>
+        <head type="SinglePoint">216,48</head>
+        <neck type="SinglePoint">213,111</neck>
+        <right_shoulder type="SinglePoint">250,150</right_shoulder>
+        <right_elbow type="SinglePoint">266,225</right_elbow>
+        <right_hand type="SinglePoint">281,324</right_hand>
+        <left_shoulder type="SinglePoint">161,144</left_shoulder>
+        <left_elbow type="SinglePoint">150,233</left_elbow>
+        <left_hand type="SinglePoint">137,317</left_hand>
+        <right_hip type="SinglePoint">225,287</right_hip>
+        <left_hip type="SinglePoint">184,287</left_hip>
+        <left_knee type="SinglePoint">171,392</left_knee>
+        <left_ankle type="SinglePoint">189,500</left_ankle>
+        <right_knee type="SinglePoint">212,415</right_knee>
+        <right_ankle type="SinglePoint">205,509</right_ankle>
+        <sLen_left type="StraightLine">141,184,166,185</sLen_left>
+        <sLen_right type="StraightLine">255,191,274,186</sLen_right>
+        <clothLen type="StraightLine">157,367,254,370</clothLen>
+        <L_Sleeve type="StraightLine">145,181,160,186</L_Sleeve>
+        <R_Sleeve type="StraightLine">252,192,264,191</R_Sleeve>
+        <Lenth type="StraightLine">153,372,239,374</Lenth>
+        <HSIColor1 type="StandardRect">196,164,216,179</HSIColor1>
+        <HSIColor2 type="StandardRect">205,261,212,273</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_short</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Point</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>7110981</color1>
+        <color2>5376031</color2>
+        <color3>5172338</color3>
+        <color4>4265175</color4>
+        <color5>3990478</color5>
+        <open>open_no</open>
+        <sleeveValue>24.9</sleeveValue>
+        <lenthValue>66.6</lenthValue>
+        <Color1>8412880</Color1>
+        <Color2>10778766</Color2>
+    </attr>
+</file>

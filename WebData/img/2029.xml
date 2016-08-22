@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="adc17e90a8e00663feffdd3eca71ea15" attrgroup="g14" name="2012PF-BMISCHKA-016fullscreen" size="0">
+    <pose>
+        <head type="SinglePoint">290,75</head>
+        <neck type="SinglePoint">289,160</neck>
+        <right_shoulder type="SinglePoint">357,201</right_shoulder>
+        <right_elbow type="SinglePoint">366,317</right_elbow>
+        <right_hand type="SinglePoint">370,443</right_hand>
+        <left_shoulder type="SinglePoint">229,205</left_shoulder>
+        <left_elbow type="SinglePoint">215,328</left_elbow>
+        <left_hand type="SinglePoint">219,440</left_hand>
+        <right_hip type="SinglePoint">324,367</right_hip>
+        <left_hip type="SinglePoint">261,378</left_hip>
+        <left_knee type="SinglePoint">267,557</left_knee>
+        <left_ankle type="SinglePoint">269,710</left_ankle>
+        <right_knee type="SinglePoint">318,557</right_knee>
+        <right_ankle type="SinglePoint">310,709</right_ankle>
+        <L_Sleeve type="StraightLine">209,437,230,437</L_Sleeve>
+        <R_Sleeve type="StraightLine">360,438,374,439</R_Sleeve>
+        <Lenth type="StraightLine">256,293,333,296</Lenth>
+        <HSIColor1 type="StandardRect">290,213,320,241</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>shirt</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>short</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g14</attrgroup>
+        <color1>13090426</color1>
+        <color2>9179201</color2>
+        <color3>1468645</color3>
+        <color4>1277172</color4>
+        <color5>1252206</color5>
+        <sleeveValue>98.1</sleeveValue>
+        <lenthValue>24.4</lenthValue>
+        <Color1>15526122</Color1>
+    </attr>
+</file>

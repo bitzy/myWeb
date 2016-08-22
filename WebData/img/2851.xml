@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="2013PF-RKRAKOFF-REED_026_1366" size="0" md5="f05d719257e0a08d9f6fa5ee84ee6250" attrgroup="g11">
+    <pose>
+        <head type="SinglePoint">275,51</head>
+        <neck type="SinglePoint">275,154</neck>
+        <right_shoulder type="SinglePoint">353,193</right_shoulder>
+        <right_elbow type="SinglePoint">363,328</right_elbow>
+        <right_hand type="SinglePoint">358,472</right_hand>
+        <left_shoulder type="SinglePoint">189,189</left_shoulder>
+        <left_elbow type="SinglePoint">171,309</left_elbow>
+        <left_hand type="SinglePoint">189,429</left_hand>
+        <right_hip type="SinglePoint">323,428</right_hip>
+        <left_hip type="SinglePoint">225,432</left_hip>
+        <left_knee type="SinglePoint">238,587</left_knee>
+        <left_ankle type="SinglePoint">233,764</left_ankle>
+        <right_knee type="SinglePoint">314,578</right_knee>
+        <right_ankle type="SinglePoint">308,771</right_ankle>
+        <L_Sleeve type="StraightLine">177,415,211,414</L_Sleeve>
+        <R_Sleeve type="StraightLine">343,465,365,465</R_Sleeve>
+        <Lenth type="StraightLine">229,560,329,569</Lenth>
+        <HSIColor1 type="StandardRect">284,295,306,315</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>coat</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g11</attrgroup>
+        <color1>13818668</color1>
+        <color2>5671399</color2>
+        <color3>3553442</color3>
+        <color4>1959773</color4>
+        <color5>1069316</color5>
+        <sleeveValue>95.6</sleeveValue>
+        <lenthValue>66.9</lenthValue>
+        <Color1>11578798</Color1>
+    </attr>
+</file>

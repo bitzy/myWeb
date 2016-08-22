@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="af0287232a90c8cd933a3618c64e7204" attrgroup="g14" name="F2011MEN-DGABBANA-00060fullscreen" size="0">
+    <pose>
+        <head type="SinglePoint">292,51</head>
+        <neck type="SinglePoint">292,154</neck>
+        <right_shoulder type="SinglePoint">361,171</right_shoulder>
+        <right_elbow type="SinglePoint">412,309</right_elbow>
+        <right_hand type="SinglePoint">395,447</right_hand>
+        <left_shoulder type="SinglePoint">206,189</left_shoulder>
+        <left_elbow type="SinglePoint">189,326</left_elbow>
+        <left_hand type="SinglePoint">189,464</left_hand>
+        <right_hip type="SinglePoint">343,395</right_hip>
+        <left_hip type="SinglePoint">240,378</left_hip>
+        <left_knee type="SinglePoint">257,601</left_knee>
+        <left_ankle type="SinglePoint">275,791</left_ankle>
+        <right_knee type="SinglePoint">343,584</right_knee>
+        <right_ankle type="SinglePoint">326,739</right_ankle>
+        <L_Sleeve type="StraightLine">165,451,201,451</L_Sleeve>
+        <R_Sleeve type="StraightLine">385,441,407,440</R_Sleeve>
+        <Lenth type="StraightLine">222,421,356,422</Lenth>
+        <HSIColor1 type="StandardRect">237,277,256,294</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>suit</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g14</attrgroup>
+        <color1>12345734</color1>
+        <color2>11272192</color2>
+        <color3>1572863</color3>
+        <color4>632539</color4>
+        <color5>303819</color5>
+        <sleeveValue>96.4</sleeveValue>
+        <lenthValue>43.7</lenthValue>
+        <Color1>0</Color1>
+    </attr>
+</file>

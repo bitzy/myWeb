@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="a34e1c9b97603c2cea6c3af5d87dbb90" attrgroup="han_full" name="black-jack-london-suit_400" size="0">
+    <pose>
+        <head type="SinglePoint">221,46</head>
+        <neck type="SinglePoint">209,117</neck>
+        <right_shoulder type="SinglePoint">257,145</right_shoulder>
+        <right_elbow type="SinglePoint">268,227</right_elbow>
+        <right_hand type="SinglePoint">252,308</right_hand>
+        <left_shoulder type="SinglePoint">158,139</left_shoulder>
+        <left_elbow type="SinglePoint">136,230</left_elbow>
+        <left_hand type="SinglePoint">114,293</left_hand>
+        <right_hip type="SinglePoint">219,288</right_hip>
+        <left_hip type="SinglePoint">163,281</left_hip>
+        <left_knee type="SinglePoint">162,403</left_knee>
+        <left_ankle type="SinglePoint">183,478</left_ankle>
+        <right_knee type="SinglePoint">205,403</right_knee>
+        <right_ankle type="SinglePoint">203,517</right_ankle>
+        <L_Sleeve type="StraightLine">107,280,127,283</L_Sleeve>
+        <R_Sleeve type="StraightLine">249,299,269,301</R_Sleeve>
+        <Lenth type="StraightLine">150,310,242,316</Lenth>
+        <HSIColor1 type="StandardRect">212,206,219,224</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>23892225</color1>
+        <color2>1797949</color2>
+        <color3>266240</color3>
+        <color4>208376</color4>
+        <color5>62085</color5>
+        <sleeveValue>92.7</sleeveValue>
+        <lenthValue>51.5</lenthValue>
+        <Color1>1574916</Color1>
+    </attr>
+</file>

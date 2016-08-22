@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="2012PF-MILLY-025fullscreen" size="0" md5="eeb14a3e5ce76148807225eff98c17ba" attrgroup="g1">
+    <pose>
+        <head type="SinglePoint">387,47</head>
+        <neck type="SinglePoint">391,151</neck>
+        <right_shoulder type="SinglePoint">468,189</right_shoulder>
+        <right_elbow type="SinglePoint">461,357</right_elbow>
+        <right_hand type="SinglePoint">484,527</right_hand>
+        <left_shoulder type="SinglePoint">306,188</left_shoulder>
+        <left_elbow type="SinglePoint">293,357</left_elbow>
+        <left_hand type="SinglePoint">270,512</left_hand>
+        <right_hip type="SinglePoint">421,472</right_hip>
+        <left_hip type="SinglePoint">319,472</left_hip>
+        <left_knee type="SinglePoint">265,684</left_knee>
+        <left_ankle type="SinglePoint">203,909</left_ankle>
+        <right_knee type="SinglePoint">405,679</right_knee>
+        <right_ankle type="SinglePoint">391,937</right_ankle>
+        <L_Sleeve type="StraightLine">325,172,324,196</L_Sleeve>
+        <R_Sleeve type="StraightLine">462,180,460,201</R_Sleeve>
+        <Lenth type="StraightLine">267,625,410,637</Lenth>
+        <HSIColor1 type="StandardRect">null</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g1</attrgroup>
+        <color1>23613700</color1>
+        <color2>1348169</color2>
+        <color3>582542</color3>
+        <color4>341203</color4>
+        <color5>524287</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>61.7</lenthValue>
+    </attr>
+</file>

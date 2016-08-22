@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="e6583f1c58a7ea0d44787ddc6c908b1e" attrgroup="han_half" name="T2" size="0">
+    <pose>
+        <head type="SinglePoint">412,71</head>
+        <neck type="SinglePoint">412,234</neck>
+        <right_shoulder type="SinglePoint">532,320</right_shoulder>
+        <right_elbow type="SinglePoint">552,536</right_elbow>
+        <right_hand type="SinglePoint">601,743</right_hand>
+        <left_shoulder type="SinglePoint">276,313</left_shoulder>
+        <left_elbow type="SinglePoint">261,557</left_elbow>
+        <left_hand type="SinglePoint">233,749</left_hand>
+        <right_hip type="SinglePoint">472,746</right_hip>
+        <left_hip type="SinglePoint">318,744</left_hip>
+        <left_knee type="SinglePoint">null</left_knee>
+        <left_ankle type="SinglePoint">null</left_ankle>
+        <right_knee type="SinglePoint">null</right_knee>
+        <right_ankle type="SinglePoint">null</right_ankle>
+        <L_Sleeve type="StraightLine">283,264,289,309</L_Sleeve>
+        <R_Sleeve type="StraightLine">541,266,528,330</R_Sleeve>
+        <Lenth type="StraightLine">295,748,538,749</Lenth>
+        <HSIColor1 type="StandardRect">399,342,437,355</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_no</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>20967293</color1>
+        <color2>2808621</color2>
+        <color3>1547832</color3>
+        <color4>952808</color4>
+        <color5>403621</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>40.2</lenthValue>
+        <Color1>16579836</Color1>
+    </attr>
+</file>

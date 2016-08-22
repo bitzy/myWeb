@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="bb45c02607cff3b3f68222aedff91edf" attrgroup="g10" name="F2010MEN-BURBERRY-00020fullscreen" size="0">
+    <pose>
+        <head type="SinglePoint">240,17</head>
+        <neck type="SinglePoint">257,137</neck>
+        <right_shoulder type="SinglePoint">345,163</right_shoulder>
+        <right_elbow type="SinglePoint">378,309</right_elbow>
+        <right_hand type="SinglePoint">378,447</right_hand>
+        <left_shoulder type="SinglePoint">175,163</left_shoulder>
+        <left_elbow type="SinglePoint">162,323</left_elbow>
+        <left_hand type="SinglePoint">154,447</left_hand>
+        <right_hip type="SinglePoint">315,377</right_hip>
+        <left_hip type="SinglePoint">197,389</left_hip>
+        <left_knee type="SinglePoint">223,584</left_knee>
+        <left_ankle type="SinglePoint">206,773</left_ankle>
+        <right_knee type="SinglePoint">292,584</right_knee>
+        <right_ankle type="SinglePoint">275,773</right_ankle>
+        <L_Sleeve type="StraightLine">142,437,169,441</L_Sleeve>
+        <R_Sleeve type="StraightLine">360,428,392,428</R_Sleeve>
+        <Lenth type="StraightLine">203,583,316,582</Lenth>
+        <HSIColor1 type="StandardRect">272,416,288,424</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>coat</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g10</attrgroup>
+        <color1>22893975</color1>
+        <color2>1377362</color2>
+        <color3>786432</color3>
+        <color4>570124</color4>
+        <color5>287175</color5>
+        <sleeveValue>94.8</sleeveValue>
+        <lenthValue>69.9</lenthValue>
+        <Color1>5462364</Color1>
+    </attr>
+</file>

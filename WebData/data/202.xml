@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="125409dda11a86cbfe9d440a9a71acef" attrgroup="han_half" name="000132" size="0">
+    <pose>
+        <head type="SinglePoint">386,88</head>
+        <neck type="SinglePoint">401,247</neck>
+        <right_shoulder type="SinglePoint">518,311</right_shoulder>
+        <right_elbow type="SinglePoint">559,496</right_elbow>
+        <right_hand type="SinglePoint">530,649</right_hand>
+        <left_shoulder type="SinglePoint">277,302</left_shoulder>
+        <left_elbow type="SinglePoint">235,491</left_elbow>
+        <left_hand type="SinglePoint">260,638</left_hand>
+        <right_hip type="SinglePoint">474,675</right_hip>
+        <left_hip type="SinglePoint">323,679</left_hip>
+        <left_knee type="SinglePoint">null</left_knee>
+        <left_ankle type="SinglePoint">null</left_ankle>
+        <right_knee type="SinglePoint">null</right_knee>
+        <right_ankle type="SinglePoint">null</right_ankle>
+        <L_Sleeve type="StraightLine">214,388,277,399</L_Sleeve>
+        <R_Sleeve type="StraightLine">521,401,568,403</R_Sleeve>
+        <Lenth type="StraightLine">300,648,454,654</Lenth>
+        <HSIColor1 type="StandardRect">349,509,386,529</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_short</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>12037753</color1>
+        <color2>6507698</color2>
+        <color3>2916807</color3>
+        <color4>2554733</color4>
+        <color5>2171987</color5>
+        <sleeveValue>24.5</sleeveValue>
+        <lenthValue>37.6</lenthValue>
+        <Color1>15262949</Color1>
+    </attr>
+</file>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="b3ab8ef5393b5ea27076b8e8f381ba54" attrgroup="han_full" name="0570" size="0">
+    <pose>
+        <head type="SinglePoint">264,66</head>
+        <neck type="SinglePoint">259,181</neck>
+        <right_shoulder type="SinglePoint">330,204</right_shoulder>
+        <right_elbow type="SinglePoint">338,310</right_elbow>
+        <right_hand type="SinglePoint">354,444</right_hand>
+        <left_shoulder type="SinglePoint">194,205</left_shoulder>
+        <left_elbow type="SinglePoint">179,302</left_elbow>
+        <left_hand type="SinglePoint">196,327</left_hand>
+        <right_hip type="SinglePoint">311,396</right_hip>
+        <left_hip type="SinglePoint">223,391</left_hip>
+        <left_knee type="SinglePoint">210,544</left_knee>
+        <left_ankle type="SinglePoint">168,709</left_ankle>
+        <right_knee type="SinglePoint">300,575</right_knee>
+        <right_ankle type="SinglePoint">278,725</right_ankle>
+        <L_Sleeve type="StraightLine">184,192,197,213</L_Sleeve>
+        <R_Sleeve type="StraightLine">336,189,333,225</R_Sleeve>
+        <Lenth type="StraightLine">214,378,316,375</Lenth>
+        <HSIColor1 type="StandardRect">279,241,290,255</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_no</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>23418002</color1>
+        <color2>1635214</color2>
+        <color3>569929</color3>
+        <color4>282884</color4>
+        <color5>141280</color5>
+        <sleeveValue>0.6</sleeveValue>
+        <lenthValue>36.3</lenthValue>
+        <Color1>5787212</Color1>
+    </attr>
+</file>

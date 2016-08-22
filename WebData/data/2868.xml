@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="banana-republic-shoes-forever-21-shirt-ray-ban-sunglasses_400" size="0" md5="f1b34c0926fee47004bd0f66c1097513" attrgroup="han_full">
+    <pose>
+        <head type="SinglePoint">179,23</head>
+        <neck type="SinglePoint">202,111</neck>
+        <right_shoulder type="SinglePoint">257,122</right_shoulder>
+        <right_elbow type="SinglePoint">278,206</right_elbow>
+        <right_hand type="SinglePoint">267,288</right_hand>
+        <left_shoulder type="SinglePoint">148,133</left_shoulder>
+        <left_elbow type="SinglePoint">137,234</left_elbow>
+        <left_hand type="SinglePoint">150,290</left_hand>
+        <right_hip type="SinglePoint">238,282</right_hip>
+        <left_hip type="SinglePoint">182,288</left_hip>
+        <left_knee type="SinglePoint">191,418</left_knee>
+        <left_ankle type="SinglePoint">211,525</left_ankle>
+        <right_knee type="SinglePoint">260,404</right_knee>
+        <right_ankle type="SinglePoint">169,488</right_ankle>
+        <L_Sleeve type="StraightLine">136,290,155,283</L_Sleeve>
+        <R_Sleeve type="StraightLine">245,272,274,290</R_Sleeve>
+        <Lenth type="StraightLine">156,306,238,303</Lenth>
+        <HSIColor1 type="StandardRect">223,175,239,193</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>2</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>16094675</color1>
+        <color2>3753166</color2>
+        <color3>3000089</color3>
+        <color4>1576960</color4>
+        <color5>1373065</color5>
+        <sleeveValue>96.8</sleeveValue>
+        <lenthValue>48.8</lenthValue>
+        <Color1>5789518</Color1>
+    </attr>
+</file>

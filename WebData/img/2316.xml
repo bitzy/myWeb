@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="c333d29bf3437698726871422d756431" attrgroup="han_full" name="blue-7-for-all-mankind-jeans-white-button-up-mossimo-blouse_400" size="0">
+    <pose>
+        <head type="SinglePoint">214,96</head>
+        <neck type="SinglePoint">207,171</neck>
+        <right_shoulder type="SinglePoint">253,181</right_shoulder>
+        <right_elbow type="SinglePoint">260,249</right_elbow>
+        <right_hand type="SinglePoint">252,304</right_hand>
+        <left_shoulder type="SinglePoint">165,190</left_shoulder>
+        <left_elbow type="SinglePoint">152,266</left_elbow>
+        <left_hand type="SinglePoint">149,341</left_hand>
+        <right_hip type="SinglePoint">228,312</right_hip>
+        <left_hip type="SinglePoint">177,317</left_hip>
+        <left_knee type="SinglePoint">172,424</left_knee>
+        <left_ankle type="SinglePoint">195,534</left_ankle>
+        <right_knee type="SinglePoint">229,420</right_knee>
+        <right_ankle type="SinglePoint">238,527</right_ankle>
+        <L_Sleeve type="StraightLine">137,293,160,286</L_Sleeve>
+        <R_Sleeve type="StraightLine">253,272,273,271</R_Sleeve>
+        <Lenth type="StraightLine">170,310,246,299</Lenth>
+        <HSIColor1 type="StandardRect">198,234,218,251</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_full</attrgroup>
+        <color1>25685556</color1>
+        <color2>524155</color2>
+        <color3>207790</color3>
+        <color4>170736</color4>
+        <color5>145775</color5>
+        <sleeveValue>67.4</sleeveValue>
+        <lenthValue>37.0</lenthValue>
+        <Color1>16312021</Color1>
+    </attr>
+</file>

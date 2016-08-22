@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file attrgroup="g13" md5="d36e2827f1b58598946c4513c39f5a09" name="F2010RTW-FERRAGAMO-00210fullscreen" size="0">
+    <pose>
+        <head type="SinglePoint">257,68</head>
+        <neck type="SinglePoint">265,156</neck>
+        <right_shoulder type="SinglePoint">340,167</right_shoulder>
+        <right_elbow type="SinglePoint">365,294</right_elbow>
+        <right_hand type="SinglePoint">389,411</right_hand>
+        <left_shoulder type="SinglePoint">198,186</left_shoulder>
+        <left_elbow type="SinglePoint">182,328</left_elbow>
+        <left_hand type="SinglePoint">162,463</left_hand>
+        <right_hip type="SinglePoint">306,386</right_hip>
+        <left_hip type="SinglePoint">212,397</left_hip>
+        <left_knee type="SinglePoint">243,575</left_knee>
+        <left_ankle type="SinglePoint">279,762</left_ankle>
+        <right_knee type="SinglePoint">287,584</right_knee>
+        <right_ankle type="SinglePoint">247,766</right_ankle>
+        <L_Sleeve type="StraightLine">173,369,204,372</L_Sleeve>
+        <R_Sleeve type="StraightLine">356,346,395,334</R_Sleeve>
+        <Lenth type="StraightLine">207,305,341,310</Lenth>
+        <HSIColor1 type="StandardRect">250,189,266,238</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>shirt</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>short</up_length>
+        <texture>Other</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g13</attrgroup>
+        <color1>15021267</color1>
+        <color2>7119498</color2>
+        <color3>1327364</color3>
+        <color4>1447904</color4>
+        <color5>1148440</color5>
+        <sleeveValue>67.4</sleeveValue>
+        <lenthValue>24.8</lenthValue>
+        <Color1>5000010</Color1>
+    </attr>
+</file>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="2010RST-VIKROLF-19fullscreen" size="0" md5="40e4bb134f24fd588465ddf330112c94" attrgroup="g13">
+    <pose>
+        <head type="SinglePoint">277,86</head>
+        <neck type="SinglePoint">289,181</neck>
+        <right_shoulder type="SinglePoint">349,199</right_shoulder>
+        <right_elbow type="SinglePoint">357,323</right_elbow>
+        <right_hand type="SinglePoint">370,443</right_hand>
+        <left_shoulder type="SinglePoint">237,207</left_shoulder>
+        <left_elbow type="SinglePoint">223,305</left_elbow>
+        <left_hand type="SinglePoint">209,373</left_hand>
+        <right_hip type="SinglePoint">313,395</right_hip>
+        <left_hip type="SinglePoint">252,386</left_hip>
+        <left_knee type="SinglePoint">247,546</left_knee>
+        <left_ankle type="SinglePoint">269,706</left_ankle>
+        <right_knee type="SinglePoint">327,554</right_knee>
+        <right_ankle type="SinglePoint">357,715</right_ankle>
+        <L_Sleeve type="StraightLine">null</L_Sleeve>
+        <R_Sleeve type="StraightLine">342,177,341,204</R_Sleeve>
+        <Lenth type="StraightLine">213,350,287,354</Lenth>
+        <HSIColor1 type="StandardRect">247,295,269,304</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>vest</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g13</attrgroup>
+        <color1>23436796</color1>
+        <color2>2432249</color2>
+        <color3>134911</color3>
+        <color4>68468</color4>
+        <color5>92658</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>32.3</lenthValue>
+        <Color1>6673648</Color1>
+    </attr>
+</file>

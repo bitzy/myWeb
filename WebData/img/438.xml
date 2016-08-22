@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="F2010RTW-STMARTINS-01980fullscreen" size="0" md5="26a9e872648b6a92caf2bc36600e7d87" attrgroup="g7">
+    <pose>
+        <head type="SinglePoint">292,34</head>
+        <neck type="SinglePoint">292,137</neck>
+        <right_shoulder type="SinglePoint">379,170</right_shoulder>
+        <right_elbow type="SinglePoint">378,309</right_elbow>
+        <right_hand type="SinglePoint">378,464</right_hand>
+        <left_shoulder type="SinglePoint">206,154</left_shoulder>
+        <left_elbow type="SinglePoint">201,325</left_elbow>
+        <left_hand type="SinglePoint">189,464</left_hand>
+        <right_hip type="SinglePoint">326,395</right_hip>
+        <left_hip type="SinglePoint">240,395</left_hip>
+        <left_knee type="SinglePoint">240,584</left_knee>
+        <left_ankle type="SinglePoint">240,773</left_ankle>
+        <right_knee type="SinglePoint">326,601</right_knee>
+        <right_ankle type="SinglePoint">292,791</right_ankle>
+        <L_Sleeve type="StraightLine">198,279,217,283</L_Sleeve>
+        <R_Sleeve type="StraightLine">357,295,390,295</R_Sleeve>
+        <Lenth type="StraightLine">227,417,322,426</Lenth>
+        <HSIColor1 type="StandardRect">null</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>t-shirt</uclothcategory>
+        <sleeve>s_half</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g7</attrgroup>
+        <color1>25719306</color1>
+        <color2>16644</color2>
+        <color3>133355</color3>
+        <color4>45840</color4>
+        <color5>116709</color5>
+        <sleeveValue>40.8</sleeveValue>
+        <lenthValue>44.0</lenthValue>
+    </attr>
+</file>

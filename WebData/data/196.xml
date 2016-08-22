@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="11b1792c8b5bdb20909c751dea15c4d1" attrgroup="Deballer_f" name="90" size="0">
+    <pose>
+        <head type="SinglePoint">205,107</head>
+        <neck type="SinglePoint">195,167</neck>
+        <right_shoulder type="SinglePoint">243,189</right_shoulder>
+        <right_elbow type="SinglePoint">246,251</right_elbow>
+        <right_hand type="SinglePoint">252,300</right_hand>
+        <left_shoulder type="SinglePoint">153,186</left_shoulder>
+        <left_elbow type="SinglePoint">136,248</left_elbow>
+        <left_hand type="SinglePoint">155,305</left_hand>
+        <right_hip type="SinglePoint">225,325</right_hip>
+        <left_hip type="SinglePoint">184,311</left_hip>
+        <left_knee type="SinglePoint">179,410</left_knee>
+        <left_ankle type="SinglePoint">196,518</left_ankle>
+        <right_knee type="SinglePoint">224,411</right_knee>
+        <right_ankle type="SinglePoint">218,512</right_ankle>
+        <L_Sleeve type="StraightLine">null</L_Sleeve>
+        <R_Sleeve type="StraightLine">null</R_Sleeve>
+        <Lenth type="StraightLine">null</Lenth>
+        <HSIColor1 type="StandardRect">null</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>F-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>sweater</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>Deballer_f</attrgroup>
+        <color1>24017450</color1>
+        <color2>1718500</color2>
+        <color3>445294</color3>
+        <color4>112413</color4>
+        <color5>208117</color5>
+    </attr>
+</file>

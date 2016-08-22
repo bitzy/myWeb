@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="2013RST-GCOLANGELO-017fullscreen" size="0" md5="fa6dee46c40334cf6c3ff084a7d56b6b" attrgroup="g10">
+    <pose>
+        <head type="SinglePoint">309,51</head>
+        <neck type="SinglePoint">316,152</neck>
+        <right_shoulder type="SinglePoint">378,171</right_shoulder>
+        <right_elbow type="SinglePoint">395,309</right_elbow>
+        <right_hand type="SinglePoint">412,412</right_hand>
+        <left_shoulder type="SinglePoint">245,188</left_shoulder>
+        <left_elbow type="SinglePoint">240,309</left_elbow>
+        <left_hand type="SinglePoint">240,429</left_hand>
+        <right_hip type="SinglePoint">360,356</right_hip>
+        <left_hip type="SinglePoint">272,364</left_hip>
+        <left_knee type="SinglePoint">279,567</left_knee>
+        <left_ankle type="SinglePoint">292,773</left_ankle>
+        <right_knee type="SinglePoint">366,563</right_knee>
+        <right_ankle type="SinglePoint">361,773</right_ankle>
+        <L_Sleeve type="StraightLine">231,227,250,229</L_Sleeve>
+        <R_Sleeve type="StraightLine">378,230,395,227</R_Sleeve>
+        <Lenth type="StraightLine">264,527,360,524</Lenth>
+        <HSIColor1 type="StandardRect">293,323,302,328</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_short</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Other</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g10</attrgroup>
+        <color1>9878783</color1>
+        <color2>8276924</color2>
+        <color3>3495860</color3>
+        <color4>3520820</color4>
+        <color5>928310</color5>
+        <sleeveValue>18.6</sleeveValue>
+        <lenthValue>60.1</lenthValue>
+        <Color1>9022716</Color1>
+    </attr>
+</file>

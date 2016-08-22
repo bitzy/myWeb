@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="894345abb08be32b8b584614b476651a" name="2013RST-MKORS-006fullscreen" size="0" attrgroup="g13">
+    <pose>
+        <head type="SinglePoint">292,34</head>
+        <neck type="SinglePoint">287,146</neck>
+        <right_shoulder type="SinglePoint">358,192</right_shoulder>
+        <right_elbow type="SinglePoint">368,309</right_elbow>
+        <right_hand type="SinglePoint">377,450</right_hand>
+        <left_shoulder type="SinglePoint">213,194</left_shoulder>
+        <left_elbow type="SinglePoint">206,332</left_elbow>
+        <left_hand type="SinglePoint">196,448</left_hand>
+        <right_hip type="SinglePoint">327,395</right_hip>
+        <left_hip type="SinglePoint">255,394</left_hip>
+        <left_knee type="SinglePoint">248,577</left_knee>
+        <left_ankle type="SinglePoint">252,743</left_ankle>
+        <right_knee type="SinglePoint">320,588</right_knee>
+        <right_ankle type="SinglePoint">319,739</right_ankle>
+        <L_Sleeve type="StraightLine">215,161,225,195</L_Sleeve>
+        <R_Sleeve type="StraightLine">352,162,352,180</R_Sleeve>
+        <Lenth type="StraightLine">216,540,335,543</Lenth>
+        <HSIColor1 type="StandardRect">294,191,305,199</HSIColor1>
+        <HSIColor2 type="StandardRect">269,230,278,238</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Leopard</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g13</attrgroup>
+        <color1>8650755</color1>
+        <color2>4718922</color2>
+        <color3>4752735</color3>
+        <color4>4261735</color4>
+        <color5>3408465</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>66.4</lenthValue>
+        <Color1>1726872</Color1>
+        <Color2>526604</Color2>
+    </attr>
+</file>

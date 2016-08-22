@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file attrgroup="g20" md5="d2c1641e74fafa2fee8f1301d45ad757" name="2009PF-ODLRENTA-00510fullscreen" size="0">
+    <pose>
+        <head type="SinglePoint">325,49</head>
+        <neck type="SinglePoint">337,175</neck>
+        <right_shoulder type="SinglePoint">418,192</right_shoulder>
+        <right_elbow type="SinglePoint">434,344</right_elbow>
+        <right_hand type="SinglePoint">464,494</right_hand>
+        <left_shoulder type="SinglePoint">250,215</left_shoulder>
+        <left_elbow type="SinglePoint">260,375</left_elbow>
+        <left_hand type="SinglePoint">204,552</left_hand>
+        <right_hip type="SinglePoint">393,431</right_hip>
+        <left_hip type="SinglePoint">284,426</left_hip>
+        <left_knee type="SinglePoint">302,664</left_knee>
+        <left_ankle type="SinglePoint">338,882</left_ankle>
+        <right_knee type="SinglePoint">365,689</right_knee>
+        <right_ankle type="SinglePoint">389,841</right_ankle>
+        <L_Sleeve type="StraightLine">250,318,266,319</L_Sleeve>
+        <R_Sleeve type="StraightLine">418,299,443,296</R_Sleeve>
+        <Lenth type="StraightLine">309,356,410,356</Lenth>
+        <HSIColor1 type="StandardRect">332,263,360,274</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>t-shirt</uclothcategory>
+        <sleeve>s_short</sleeve>
+        <up_length>short</up_length>
+        <texture>Other</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g20</attrgroup>
+        <color1>14521946</color1>
+        <color2>4319135</color2>
+        <color3>2966804</color3>
+        <color4>2629762</color4>
+        <color5>1344008</color5>
+        <sleeveValue>33.4</sleeveValue>
+        <lenthValue>26.4</lenthValue>
+        <Color1>7697528</Color1>
+    </attr>
+</file>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="a9b9be89577ba3ffb2066bc68c0baed4" attrgroup="han_half" name="TB2i" size="0">
+    <pose>
+        <head type="SinglePoint">424,79</head>
+        <neck type="SinglePoint">425,277</neck>
+        <right_shoulder type="SinglePoint">576,346</right_shoulder>
+        <right_elbow type="SinglePoint">624,572</right_elbow>
+        <right_hand type="SinglePoint">509,642</right_hand>
+        <left_shoulder type="SinglePoint">295,350</left_shoulder>
+        <left_elbow type="SinglePoint">261,549</left_elbow>
+        <left_hand type="SinglePoint">303,652</left_hand>
+        <right_hip type="SinglePoint">512,781</right_hip>
+        <left_hip type="SinglePoint">335,777</left_hip>
+        <left_knee type="SinglePoint">null</left_knee>
+        <left_ankle type="SinglePoint">null</left_ankle>
+        <right_knee type="SinglePoint">null</right_knee>
+        <right_ankle type="SinglePoint">null</right_ankle>
+        <L_Sleeve type="StraightLine">222,408,301,443</L_Sleeve>
+        <R_Sleeve type="StraightLine">551,444,611,427</R_Sleeve>
+        <Lenth type="StraightLine">315,760,485,768</Lenth>
+        <HSIColor1 type="StandardRect">388,432,421,464</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_short</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>13520379</color1>
+        <color2>7798655</color2>
+        <color3>2551098</color3>
+        <color4>1547871</color4>
+        <color5>990294</color5>
+        <sleeveValue>19.9</sleeveValue>
+        <lenthValue>38.8</lenthValue>
+        <Color1>10608880</Color1>
+    </attr>
+</file>

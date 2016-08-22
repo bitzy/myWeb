@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="b09ebbd5aec8d7d7976f9951819af676" attrgroup="Deballer_f" name="7d16be40576f3e34d9298f0225b30f86834812" size="0">
+    <pose>
+        <head type="SinglePoint">369,52</head>
+        <neck type="SinglePoint">387,158</neck>
+        <right_shoulder type="SinglePoint">471,193</right_shoulder>
+        <right_elbow type="SinglePoint">448,295</right_elbow>
+        <right_hand type="SinglePoint">457,428</right_hand>
+        <left_shoulder type="SinglePoint">323,176</left_shoulder>
+        <left_elbow type="SinglePoint">293,302</left_elbow>
+        <left_hand type="SinglePoint">250,403</left_hand>
+        <right_hip type="SinglePoint">418,422</right_hip>
+        <left_hip type="SinglePoint">326,411</left_hip>
+        <left_knee type="SinglePoint">336,585</left_knee>
+        <left_ankle type="SinglePoint">367,762</left_ankle>
+        <right_knee type="SinglePoint">400,581</right_knee>
+        <right_ankle type="SinglePoint">391,709</right_ankle>
+        <L_Sleeve type="StraightLine">329,157,329,187</L_Sleeve>
+        <R_Sleeve type="StraightLine">null</R_Sleeve>
+        <Lenth type="StraightLine">333,394,434,398</Lenth>
+        <HSIColor1 type="StandardRect">366,271,402,288</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>vest</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>Deballer_f</attrgroup>
+        <color1>21745273</color1>
+        <color2>2329908</color2>
+        <color3>1526766</color3>
+        <color4>981608</color4>
+        <color5>67048</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>41.2</lenthValue>
+        <Color1>16577780</Color1>
+    </attr>
+</file>

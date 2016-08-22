@@ -1,0 +1,80 @@
+#pageHead {
+	height:70px;
+	line-height:60px;
+	background:url(./color.jpg) no-repeat top left;
+}
+
+#pageNote {
+	margin-bottom:20px;
+	color:green;
+}
+
+/*======================= top left =========================*/
+#topContent {
+	min-height:500px;
+}
+
+#inputForm {
+	width:40%;
+	float:left;
+}
+
+#fileDiv {
+	max-width:200px;
+	height:50px;
+	line-height:50px;
+	float:left;
+}
+
+#beginDiv {
+	display:none;
+	float:right;
+	width:80px;
+	height:50px;	
+	text-align:right;
+	line-height:50px;
+	vertical-align:middle;
+	margin-right:0px;
+}
+
+#searchGDDiv {
+	display:none;
+	float:right;
+	width:80px;
+	height:50px;
+	text-align:right;
+	line-height:50px;
+	vertical-align:middle;
+	margin-right:10px;
+}
+
+#imgView { width:300px; }
+#resDiv	{ display:none; }
+
+/*======================= top right =========================*/
+#recognizeFrame {
+	border:none/*1px solid red*/;
+	width:50%;
+}
+
+/*======================= bottm =========================*/
+#searchFrame {
+	width:100%;
+	border:none/*1px solid red*/;
+	min-height:300px;
+	margin:0;
+	margin-top: 50px;
+	visibility:hidden;
+}
+
+/*======================= foot =========================*/
+
+#foot {
+	margin-bottom:50px;
+	text-align:center;
+}
+
+/*======================= end =========================*/
+#dataFrame {
+	display:none;
+}

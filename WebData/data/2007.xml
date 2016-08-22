@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="abb8065f1acff861a909314528ec14ca" attrgroup="han_half" name="TB2mOLwbVXXXXcRXpXX_1590022038" size="0">
+    <pose>
+        <head type="SinglePoint">283,35</head>
+        <neck type="SinglePoint">393,225</neck>
+        <right_shoulder type="SinglePoint">566,232</right_shoulder>
+        <right_elbow type="SinglePoint">645,497</right_elbow>
+        <right_hand type="SinglePoint">727,719</right_hand>
+        <left_shoulder type="SinglePoint">295,338</left_shoulder>
+        <left_elbow type="SinglePoint">318,555</left_elbow>
+        <left_hand type="SinglePoint">88,643</left_hand>
+        <right_hip type="SinglePoint">643,754</right_hip>
+        <left_hip type="SinglePoint">414,784</left_hip>
+        <left_knee type="SinglePoint">null</left_knee>
+        <left_ankle type="SinglePoint">null</left_ankle>
+        <right_knee type="SinglePoint">null</right_knee>
+        <right_ankle type="SinglePoint">null</right_ankle>
+        <L_Sleeve type="StraightLine">98,620,103,654</L_Sleeve>
+        <R_Sleeve type="StraightLine">null</R_Sleeve>
+        <Lenth type="StraightLine">371,781,626,745</Lenth>
+        <HSIColor1 type="StandardRect">429,419,457,440</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory/>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>20401588</color1>
+        <color2>4697981</color2>
+        <color3>524288</color3>
+        <color4>457839</color4>
+        <color5>28931</color5>
+        <sleeveValue>97.4</sleeveValue>
+        <lenthValue>38.4</lenthValue>
+        <Color1>14016729</Color1>
+    </attr>
+</file>

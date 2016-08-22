@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="2009PF-CHLOE-19fullscreen" size="0" md5="fbd21d051e60c9d9b1d73187226ac8d6" attrgroup="g12">
+    <pose>
+        <head type="SinglePoint">296,45</head>
+        <neck type="SinglePoint">282,148</neck>
+        <right_shoulder type="SinglePoint">362,174</right_shoulder>
+        <right_elbow type="SinglePoint">355,301</right_elbow>
+        <right_hand type="SinglePoint">348,387</right_hand>
+        <left_shoulder type="SinglePoint">223,170</left_shoulder>
+        <left_elbow type="SinglePoint">203,290</left_elbow>
+        <left_hand type="SinglePoint">209,362</left_hand>
+        <right_hip type="SinglePoint">316,392</right_hip>
+        <left_hip type="SinglePoint">254,394</left_hip>
+        <left_knee type="SinglePoint">251,587</left_knee>
+        <left_ankle type="SinglePoint">241,761</left_ankle>
+        <right_knee type="SinglePoint">318,591</right_knee>
+        <right_ankle type="SinglePoint">291,768</right_ankle>
+        <L_Sleeve type="StraightLine">197,358,209,356</L_Sleeve>
+        <R_Sleeve type="StraightLine">348,371,352,379</R_Sleeve>
+        <Lenth type="StraightLine">215,547,373,548</Lenth>
+        <HSIColor1 type="StandardRect">304,235,317,244</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g12</attrgroup>
+        <color1>9986373</color1>
+        <color2>7768880</color2>
+        <color3>3811819</color3>
+        <color4>2996261</color4>
+        <color5>1402592</color5>
+        <sleeveValue>93.8</sleeveValue>
+        <lenthValue>64.8</lenthValue>
+        <Color1>9215664</Color1>
+    </attr>
+</file>

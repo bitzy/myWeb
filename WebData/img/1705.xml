@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="92b58af9d0bb67486149f460c194b617" name="F2009RTW-PREEN-00360fullscreen" size="0" attrgroup="g15">
+    <pose>
+        <head type="SinglePoint">275,34</head>
+        <neck type="SinglePoint">276,151</neck>
+        <right_shoulder type="SinglePoint">356,178</right_shoulder>
+        <right_elbow type="SinglePoint">360,317</right_elbow>
+        <right_hand type="SinglePoint">386,455</right_hand>
+        <left_shoulder type="SinglePoint">204,181</left_shoulder>
+        <left_elbow type="SinglePoint">204,306</left_elbow>
+        <left_hand type="SinglePoint">176,441</left_hand>
+        <right_hip type="SinglePoint">339,395</right_hip>
+        <left_hip type="SinglePoint">236,414</left_hip>
+        <left_knee type="SinglePoint">273,610</left_knee>
+        <left_ankle type="SinglePoint">269,732</left_ankle>
+        <right_knee type="SinglePoint">328,583</right_knee>
+        <right_ankle type="SinglePoint">308,785</right_ankle>
+        <L_Sleeve type="StraightLine">213,173,216,195</L_Sleeve>
+        <R_Sleeve type="StraightLine">349,163,349,187</R_Sleeve>
+        <Lenth type="StraightLine">215,537,356,528</Lenth>
+        <HSIColor1 type="StandardRect">259,352,279,365</HSIColor1>
+        <HSIColor2 type="StandardRect">288,214,306,230</HSIColor2>
+        <HSIColor3 type="StandardRect">289,488,303,500</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory>dress</uclothcategory>
+        <sleeve>s_no</sleeve>
+        <up_length>mid_long</up_length>
+        <texture>Other</texture>
+        <button>N</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g15</attrgroup>
+        <color1>10161852</color1>
+        <color2>5990709</color2>
+        <color3>5195967</color3>
+        <color4>3321208</color4>
+        <color5>2010038</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>62.8</lenthValue>
+        <Color1>12314096</Color1>
+        <Color2>13535740</Color2>
+        <Color3>16047749</Color3>
+    </attr>
+</file>

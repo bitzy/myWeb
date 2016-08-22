@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file name="F2011MEN-ISMIYAKE-00050fullscreen" size="0" attrgroup="g11" md5="5a4c69a94872c393958a61f0a1030771">
+    <pose>
+        <head type="SinglePoint">292,34</head>
+        <neck type="SinglePoint">292,137</neck>
+        <right_shoulder type="SinglePoint">376,168</right_shoulder>
+        <right_elbow type="SinglePoint">390,322</right_elbow>
+        <right_hand type="SinglePoint">386,458</right_hand>
+        <left_shoulder type="SinglePoint">202,176</left_shoulder>
+        <left_elbow type="SinglePoint">184,323</left_elbow>
+        <left_hand type="SinglePoint">181,440</left_hand>
+        <right_hip type="SinglePoint">345,421</right_hip>
+        <left_hip type="SinglePoint">240,431</left_hip>
+        <left_knee type="SinglePoint">239,602</left_knee>
+        <left_ankle type="SinglePoint">251,720</left_ankle>
+        <right_knee type="SinglePoint">295,574</right_knee>
+        <right_ankle type="SinglePoint">284,794</right_ankle>
+        <sLen_left type="StraightLine">163,425,198,423</sLen_left>
+        <sLen_right type="StraightLine">372,436,412,438</sLen_right>
+        <clothLen type="StraightLine">207,473,361,469</clothLen>
+        <L_Sleeve type="StraightLine">165,426,200,426</L_Sleeve>
+        <R_Sleeve type="StraightLine">369,442,407,442</R_Sleeve>
+        <Lenth type="StraightLine">213,477,344,474</Lenth>
+        <HSIColor1 type="StandardRect">239,262,273,312</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>V-collar</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>N</skirt>
+        <uclothcategory>suit</uclothcategory>
+        <sleeve>s_long</sleeve>
+        <up_length>normal</up_length>
+        <texture>Single</texture>
+        <button>B</button>
+        <halforfull>full</halforfull>
+        <bywho>deballer</bywho>
+        <attrgroup>g11</attrgroup>
+        <color1>15029657</color1>
+        <color2>10868576</color2>
+        <color3>170669</color3>
+        <color4>66644</color4>
+        <color5>141477</color5>
+        <open>open_no</open>
+        <sleeveValue>93.7</sleeveValue>
+        <lenthValue>54.5</lenthValue>
+        <Color1>5462116</Color1>
+    </attr>
+</file>

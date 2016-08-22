@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file md5="8e7f37c9f3ca1b271e480a62ed26275c" name="000337" size="0" attrgroup="han_half">
+    <pose>
+        <head type="SinglePoint">388,45</head>
+        <neck type="SinglePoint">373,150</neck>
+        <right_shoulder type="SinglePoint">469,179</right_shoulder>
+        <right_elbow type="SinglePoint">427,299</right_elbow>
+        <right_hand type="SinglePoint">426,161</right_hand>
+        <left_shoulder type="SinglePoint">305,186</left_shoulder>
+        <left_elbow type="SinglePoint">300,299</left_elbow>
+        <left_hand type="SinglePoint">269,419</left_hand>
+        <right_hip type="SinglePoint">425,438</right_hip>
+        <left_hip type="SinglePoint">327,444</left_hip>
+        <left_knee type="SinglePoint">342,625</left_knee>
+        <left_ankle type="SinglePoint">357,788</left_ankle>
+        <right_knee type="SinglePoint">418,614</right_knee>
+        <right_ankle type="SinglePoint">415,794</right_ankle>
+        <L_Sleeve type="StraightLine">310,163,308,191</L_Sleeve>
+        <R_Sleeve type="StraightLine">453,166,452,174</R_Sleeve>
+        <Lenth type="StraightLine">218,756,458,766</Lenth>
+        <HSIColor1 type="StandardRect">346,353,376,382</HSIColor1>
+        <HSIColor2 type="StandardRect">null</HSIColor2>
+        <HSIColor3 type="StandardRect">null</HSIColor3>
+    </pose>
+    <attr>
+        <collar>Round</collar>
+        <uclothcnt>1</uclothcnt>
+        <skirt>S</skirt>
+        <uclothcategory/>
+        <sleeve>s_no</sleeve>
+        <up_length>long</up_length>
+        <texture>Single</texture>
+        <button>N</button>
+        <halforfull>half</halforfull>
+        <bywho>han</bywho>
+        <attrgroup>han_half</attrgroup>
+        <color1>13508413</color1>
+        <color2>8584244</color2>
+        <color3>3041773</color3>
+        <color4>888573</color4>
+        <color5>335096</color5>
+        <sleeveValue>0.0</sleeveValue>
+        <lenthValue>95.3</lenthValue>
+        <Color1>8645880</Color1>
+    </attr>
+</file>
